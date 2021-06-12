@@ -6,7 +6,7 @@ description: Webpage of Jianxu Chen's group
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: mmv-lab.github.io/
+baseurl: mmv-lab.github.io
 
 # site social media and other links
 links:
