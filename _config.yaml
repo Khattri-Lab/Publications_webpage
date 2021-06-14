@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: Microscopy Machine Vision Lab
 description: Webpage of Jianxu Chen's group
-logo: images/logo.svg
+logo: images/lab_logo.svg
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /mmv-lab
@@ -11,11 +11,9 @@ baseurl: /mmv-lab
 # site social media and other links
 links:
   email: jxchen01.ustc@gmail.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  google-scholar: Jianxu Chen
+  github: mmv-lab.github.io
+  twitter: TBD
 
 # automatic citations
 auto-cite:
