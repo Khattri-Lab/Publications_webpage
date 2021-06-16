@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# A two-way road between microscopy and machine vision 
+# synergize microscopy, machine vision and AI 
 
 We believe AI-based microscopy machine vision research is a two-way road. Innovative microscopy image anlaysis methods ..... 
 
