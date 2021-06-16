@@ -10,7 +10,7 @@ We believe AI-based microscopy machine vision research is a two-way road. Innova
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/banner.svg" %}
 
 {% include section.html %}
 
