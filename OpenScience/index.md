@@ -1,5 +1,5 @@
 ---
-title: Open Science Portal
+title: Open-Science-Portal
 nav:
   order: 2
   tooltip: Software, datasets, and more

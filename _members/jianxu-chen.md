@@ -1,7 +1,7 @@
 ---
-name: Upton O. Goode
-image: images/member.jpg
-description: Bone Investigator
+name: Jianxu Chen
+image: images/jianxu_pic.jpg
+description: Group Leader
 role: group leader
 aliases:
   - U. Goode
