@@ -1,8 +1,8 @@
 ---
-name: Felix Cited
+name: Unknown
 image: images/member.jpg
-description: Treat Researcher
-role: phd
+description: TBA
+role: post-doc
 group: alum
 aliases:
   - F. Cited
@@ -13,6 +13,4 @@ links:
   twitter: felixcited
 ---
 
-Felix is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+TBA by new member

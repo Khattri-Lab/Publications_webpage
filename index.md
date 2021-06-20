@@ -21,10 +21,10 @@ Of course, no one can know all. So, we embrace a diverse group and extensive int
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-[See what we've published &nbsp;→](research)
+AI-based microscopy machine vision is a highly multi-disciplinary field. There are so many fanscinating problems to explore and study.
+
+[See our research landscape &nbsp;→](research)
 {:.center}
 {% endcapture %}
 
@@ -37,10 +37,10 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-[See our resources &nbsp;→](resources)
+Our group is fully commited to open science, such as open source softwares/packages, public datasets, open access publications. We believe open science can lead to impactful big science.
+
+[Visit our open science portal &nbsp;→](resources)
 {:.center}
 {% endcapture %}
 
@@ -53,7 +53,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+We are building a team with diverse background and expertises, from software enigneering, machine learning, image analysis, data analysis to micr0scopy and computational biomedical modeling. 
 
 [Meet our team &nbsp;→](team)
 {:.center}
