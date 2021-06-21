@@ -1,6 +1,6 @@
 ---
 name: Unknown
-image: images/unknow.svg
+image: images/unknown.svg
 description: TBA
 role: post-doc
 group: alum
