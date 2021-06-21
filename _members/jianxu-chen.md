@@ -7,9 +7,9 @@ aliases:
   - J. Chen
   - Jianxu
 links:
-  Google Scholar: https://scholar.google.com/citations?hl=en&user=HdolpOgAAAAJ
+  google-scholar: HdolpOgAAAAJ
   email: jianxuchen.ai@gmail.com
-  twitter: https://twitter.com/JianxuChen
+  twitter: JianxuChen
 ---
 
 
