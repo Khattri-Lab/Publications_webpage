@@ -30,7 +30,7 @@ AI-based microscopy machine vision is a highly multi-disciplinary field. There a
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/researcg2.svg"
   link="research"
   headline="Our Research"
   text=text
@@ -46,7 +46,7 @@ Our group is fully commited to open science, such as open source softwares/packa
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/open.svg"
   link="resources"
   headline="Our Resources"
   text=text
@@ -62,7 +62,7 @@ We are building a team with diverse background and expertises, from software eni
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.svg"
   link="team"
   headline="Our Team"
   text=text
