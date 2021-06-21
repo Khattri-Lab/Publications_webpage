@@ -1,8 +1,8 @@
 ---
-name: people_2
+name: people_5
 image: images/unknown.svg
-description: Ph.D. Researcher
-role: phd
+description: IT/Software
+role: programmer
 aliases:
   - A. Chovie
   - A Chovie

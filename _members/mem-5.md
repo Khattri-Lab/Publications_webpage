@@ -1,5 +1,5 @@
 ---
-name: people_2
+name: people_4
 image: images/unknown.svg
 description: Ph.D. Researcher
 role: phd

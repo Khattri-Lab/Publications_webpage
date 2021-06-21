@@ -4,13 +4,12 @@ image: images/jianxu_pic.jpg
 description: Group Leader
 role: group leader
 aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
+  - J. Chen
+  - Jianxu
 links:
-  Google Scholar: Jianxu Chen
+  Google Scholar: https://scholar.google.com/citations?hl=en&user=HdolpOgAAAAJ
   email: jianxuchen.ai@gmail.com
-  twitter: uptonogoode
+  twitter: https://twitter.com/JianxuChen
 ---
 
 
@@ -24,4 +23,5 @@ yy
 
 ### Test header 3
 
-zz
+
+See my [full CV](../asset/CV_Jianxu.pdf)

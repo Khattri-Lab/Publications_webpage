@@ -1,9 +1,8 @@
 ---
-name: Unknown
+name: people_1
 image: images/unknown.svg
-description: TBA
-role: post-doc
-group: alum
+description: Postdoc Researcher
+role: postdoc
 aliases:
   - F. Cited
   - F Cited

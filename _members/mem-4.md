@@ -1,9 +1,8 @@
 ---
-name: Unknown
+name: people_3
 image: images/unknown.svg
-description: TBA
-role: Software
-group: alum
+description: IT/Software
+role: programmer
 aliases:
   - F. Cited
   - F Cited
