@@ -1,6 +1,6 @@
 ---
 name: Unknown
-image: images/member.jpg
+image: images/unknow.svg
 description: TBA
 role: phd
 aliases:
