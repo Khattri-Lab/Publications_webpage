@@ -30,7 +30,7 @@ AI-based microscopy machine vision is a highly multi-disciplinary field. There a
 
 {%
   include feature.html
-  image="images/researcg2.svg"
+  image="images/research2.svg"
   link="research"
   headline="Our Research"
   text=text
