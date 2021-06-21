@@ -21,7 +21,7 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: post-doc"
+  filters="role: postdoc"
 %}
 {%
   include list.html
@@ -33,7 +33,7 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: Software"
+  filters="role: programmer"
 %}
 {:.center}
 

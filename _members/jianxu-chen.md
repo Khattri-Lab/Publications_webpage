@@ -2,7 +2,7 @@
 name: Jianxu Chen
 image: images/jianxu_pic.jpg
 description: Group Leader
-role: group leader
+role: pi
 aliases:
   - J. Chen
   - Jianxu
