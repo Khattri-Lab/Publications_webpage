@@ -85,3 +85,54 @@
   tags:
   - image segmentation
   - 3D
+- id: doi:https://doi.org/10.1609/aaai.v33i01.33015901
+  title: Biomedical Image Segmentation via Representative Annotation
+  authors:
+  - Hao Zheng
+  - Lin Yang
+  - Jianxu Chen
+  - Jun Han
+  - Yizhe Zhang
+  - Peixian Liang
+  - Zhuo Zhao
+  - Chaoli Wang
+  - Danny Z. Chen
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2019-07-17'
+  link: https://doi.org/ghkj3s
+  image: https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2017/09/AAAI-19-Hawaii-Beach-Shade.png
+  tags:
+  - image segmentation
+  - efficient annotation
+- id: doi:10.1109/ISBI.2018.8363724
+  title: A new registration approach for dynamic analysis of calcium signals in organs
+  authors:
+  - Peixian Liang
+  - Jianxu Chen
+  - Pavel A. Brodskiy
+  - Qinfeng Wu
+  - Yejia Zhang
+  - Yizhe Zhang
+  - Lin Yang
+  - Jeremiah J. Zartman
+  - Danny Z. Chen
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2018-04-01'
+  link: https://doi.org/gkspqm
+  image: https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2017/09/AAAI-19-Hawaii-Beach-Shade.png
+  tags:
+  - image registration
+- id: doi:https://doi.org/10.1007/978-3-319-66185-8_3
+  title: Neuron Segmentation Using Deep Complete Bipartite Networks
+  authors:
+  - Jianxu Chen
+  - Sreya Banerjee
+  - Abhinav Grama
+  - Walter J. Scheirer
+  - Danny Z. Chen
+  publisher: Lecture Notes in Computer Science
+  date: '2017-01-01'
+  link: https://doi.org/gkspqn
+  image: https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2017/09/AAAI-19-Hawaii-Beach-Shade.png
+  tags:
+  - image segmentation
