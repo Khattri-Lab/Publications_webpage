@@ -35,3 +35,21 @@
   tags:
     - image segmentation
     - 3D
+
+- id: doi:https://doi.org/10.1609/aaai.v33i01.33015901
+  image: https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2017/09/AAAI-19-Hawaii-Beach-Shade.png
+  tags:
+    - image segmentation
+    - efficient annotation
+
+- id: doi:10.1109/ISBI.2018.8363724
+  image: https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2017/09/AAAI-19-Hawaii-Beach-Shade.png
+  tags:
+    - image registration
+    
+- id: doi:https://doi.org/10.1007/978-3-319-66185-8_3
+  image: https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2017/09/AAAI-19-Hawaii-Beach-Shade.png
+  tags:
+    - image segmentation
+
+    

@@ -1,42 +1,19 @@
-- name: Cool Dataset
-  group: featured
+- name: my package
+  group: tool
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: coming soon ...
   repo: greenelab/lab-website-template
 
-- name: Cool Package
-  group: featured
+- name: my dataset
+  group: data
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: coming soon .... 
   repo: greenelab/lab-website-template
-
-- name: Cool Tutorial
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-
-- name: Cool Web App
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-
-- name: Cool Web Server
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-
 
 - name: 3D cell stage classifier
   group: previous
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://github.com/AllenCell/image_classifier_3d
   description: mitotic classifier
-  repo: AllenCell/image_classifier_3d

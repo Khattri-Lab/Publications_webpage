@@ -19,7 +19,7 @@ Our group is fully commited to open science, such as open source softwares/packa
 
 {% include section.html %}
 
-## Public datasets
+## Open datasets
 
 {% include list.html component="card" data="tools" filters="group: more" style="small" %}
 
@@ -27,7 +27,7 @@ Our group is fully commited to open science, such as open source softwares/packa
 
 {% include section.html %}
 
-## Previous Works
+## Previous open Works
 
 {% include list.html component="card" data="tools" filters="group: previous" %}
 
