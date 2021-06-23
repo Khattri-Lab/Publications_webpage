@@ -1,33 +1,37 @@
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
+- id: doi:10.1109/BIBM49941.2020.9313428
+  image: https://d3smihljt9218e.cloudfront.net/event/59/logo/small-05e6fdd38ac17bfddebc838a4069a756.png
   extra-links:
     - type: manubot
       link: https://greenelab.github.io/knowledge-graph-review/
   tags:
-    - knowledge graphs
+    - histopathology image
+    - image transformation
+    - image segmentation
+    - unlabeled data
 
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
+- id: doi:10.1109/CBMS49503.2020.00069
+  image: http://www.cbms2020.org/images/logo-cbms2020-v1.png
+  tags:
+    - cell tracking
+
+- id: doi:https://doi.org/10.1101/491035
+  image: https://www.allencell.org/uploads/8/1/9/9/81996008/published/overview-2020-12.png?1607460428
   extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      link: https://github.com/greenelab/meta-review
     - type: website
-      link: http://manubot.org/
+      link: https://www.allencell.org/segmenter.html
+    - type: source
+      link: https://github.com/AllenCell/aics-ml-segmentation
+      text: ML segmentation source
+    - type: source
+      link: https://github.com/AllenCell/aics-segmentation
+      text: classic segmentation source
+  tags:
+    - image segmentation
+    - light microscopy image
+    - 3D
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
-    - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
-    - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
+- id: doi:10.1109/ISBI.2019.8759430
+  image: https://biomedicalimaging.org/2019/wp-content/uploads/sites/43/2018/03/ISBI_2019_banner_web-960.jpg
+  tags:
+    - image segmentation
+    - 3D
