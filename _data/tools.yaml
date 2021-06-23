@@ -32,3 +32,11 @@
   link: https://github.com/
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
+
+
+- name: 3D cell stage classifier
+  group: previous
+  image: images/photo.jpg
+  link: https://github.com/
+  description: mitotic classifier
+  repo: AllenCell/image_classifier_3d

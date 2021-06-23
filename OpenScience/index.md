@@ -24,3 +24,11 @@ Our group is fully commited to open science, such as open source softwares/packa
 {% include list.html component="card" data="tools" filters="group: more" style="small" %}
 
 
+
+{% include section.html %}
+
+## Previous Works
+
+{% include list.html component="card" data="tools" filters="group: previous" %}
+
+{% include section.html %}
