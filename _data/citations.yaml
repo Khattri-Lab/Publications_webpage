@@ -67,7 +67,6 @@
     text: classic segmentation source
   tags:
   - image segmentation
-  - light microscopy image
   - 3D
 - id: doi:10.1109/ISBI.2019.8759430
   title: 'Cascade Decoder: A Universal Decoding Method For Biomedical Image Segmentation'
@@ -133,6 +132,206 @@
   publisher: Lecture Notes in Computer Science
   date: '2017-01-01'
   link: https://doi.org/gkspqn
-  image: https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2017/09/AAAI-19-Hawaii-Beach-Shade.png
+  image: https://www.miccai2021.org/files/images/layout/en/miccai-logo.png
   tags:
   - image segmentation
+- id: doi:https://doi.org/10.1016/j.cels.2021.05.001
+  title: 'Cell states beyond transcriptomics: Integrating structural organization
+    and gene expression in hiPSC-derived cardiomyocytes'
+  authors:
+  - Kaytlyn A. Gerbin
+  - Tanya Grancharova
+  - Rory M. Donovan-Maiye
+  - Melissa C. Hendershott
+  - Helen G. Anderson
+  - Jackson M. Brown
+  - Jianxu Chen
+  - Stephanie Q. Dinh
+  - Jamie L. Gehring
+  - Gregory R. Johnson
+  - HyeonWoo Lee
+  - Aditya Nath
+  - Angelique M. Nelson
+  - M. Filip Sluzewski
+  - Matheus P. Viana
+  - Calysta Yan
+  - Rebecca J. Zaunbrecher
+  - Kimberly R. Cordes Metzler
+  - Nathalie Gaudreault
+  - Theo A. Knijnenburg
+  - Susanne M. Rafelski
+  - Julie A. Theriot
+  - Ruwanthi N. Gunawardane
+  publisher: Cell Systems
+  date: '2021-06-01'
+  link: https://doi.org/gktgdk
+  image: https://www.allencell.org/uploads/8/1/9/9/81996008/cellsystems-cover-fish-aics-cos-2-final-thumb_2.png
+  tags: &id001
+  - caridomyocyte
+  - analysis and modeling
+  - image segmentation
+- id: doi:https://doi.org/10.1016/j.cels.2021.05.001
+  title: 'Cell states beyond transcriptomics: Integrating structural organization
+    and gene expression in hiPSC-derived cardiomyocytes'
+  authors:
+  - Kaytlyn A. Gerbin
+  - Tanya Grancharova
+  - Rory M. Donovan-Maiye
+  - Melissa C. Hendershott
+  - Helen G. Anderson
+  - Jackson M. Brown
+  - Jianxu Chen
+  - Stephanie Q. Dinh
+  - Jamie L. Gehring
+  - Gregory R. Johnson
+  - HyeonWoo Lee
+  - Aditya Nath
+  - Angelique M. Nelson
+  - M. Filip Sluzewski
+  - Matheus P. Viana
+  - Calysta Yan
+  - Rebecca J. Zaunbrecher
+  - Kimberly R. Cordes Metzler
+  - Nathalie Gaudreault
+  - Theo A. Knijnenburg
+  - Susanne M. Rafelski
+  - Julie A. Theriot
+  - Ruwanthi N. Gunawardane
+  publisher: Cell Systems
+  date: '2021-06-01'
+  link: https://doi.org/gktgdk
+  image: https://www.allencell.org/uploads/8/1/9/9/81996008/cellsystems-cover-fish-aics-cos-2-final-thumb_2.png
+  tags: *id001
+- id: doi:10.1128/JB.00184-19
+  title: Single Cells Exhibit Differing Behavioral Phases during Early Stages of Pseudomonas
+    aeruginosa Swarming
+  authors:
+  - Chinedu S. Madukoma
+  - Peixian Liang
+  - Aleksandar Dimkovikj
+  - Jianxu Chen
+  - Shaun W. Lee
+  - Danny Z. Chen
+  - Joshua D. Shrout
+  publisher: Journal of Bacteriology
+  date: '2019-10-01'
+  link: https://doi.org/gktgdm
+  image: https://journals.asm.org/cms/10.1128/JB.00184-19/asset/1a011f2b-63f1-4345-b9b7-c2046a493bfc/assets/graphic/jb.00184-19-f0003.jpeg
+  tags:
+  - cell tracking
+  - analysis and modeling
+  - bacteria
+- id: doi:10.1016/j.bpj.2019.01.007
+  title: Decoding Calcium Signaling Dynamics during Drosophila Wing Disc Development
+  authors:
+  - Pavel A. Brodskiy
+  - Qinfeng Wu
+  - Dharsan K. Soundarrajan
+  - Francisco J. Huizar
+  - Jianxu Chen
+  - Peixian Liang
+  - Cody Narciso
+  - Megan K. Levis
+  - Ninfamaria Arredondo-Walsh
+  - Danny Z. Chen
+  - Jeremiah J. Zartman
+  publisher: Biophysical Journal
+  date: '2019-02-01'
+  link: https://doi.org/gktgdn
+  image: https://marlin-prod.literatumonline.com/cms/attachment/aa948b9d-5119-43c5-8bd7-a12cc5331c0d/gr4.jpg
+  tags:
+  - image registration
+  - analysis and modeling
+- id: doi:10.1016/j.matbio.2016.10.007
+  title: Compression-induced structural and mechanical changes of fibrin-collagen
+    composites
+  authors:
+  - O.V. Kim
+  - R.I. Litvinov
+  - J. Chen
+  - D.Z. Chen
+  - J.W. Weisel
+  - M.S. Alber
+  publisher: Matrix Biology
+  date: '2017-07-01'
+  link: https://doi.org/gktgdp
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0945053X16302517-gr8.sml
+  tags:
+  - image segmentation
+  - analysis and modeling
+- id: doi:10.1109/TMI.2016.2548490
+  title: A Hybrid Approach for Segmentation and Tracking of Myxococcus Xanthus Swarms
+  authors:
+  - Jianxu Chen
+  - Mark S. Alber
+  - Danny Z. Chen
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2016-09-01'
+  link: https://doi.org/gktgdq
+  image: null
+  tags:
+  - image segmentation
+  - cell tracking
+- id: doi:10.1103/PhysRevLett.117.028301
+  title: "Kinetic Transition Networks for the Thomson Problem and Smale\u2019s Seventh\
+    \ Problem"
+  authors:
+  - Dhagash Mehta
+  - Jianxu Chen
+  - Danny Z. Chen
+  - Halim Kusumaatmaja
+  - David J. Wales
+  publisher: Physical Review Letters
+  date: '2016-07-06'
+  link: https://doi.org/gktgdr
+  image: https://journals.aps.org/prl/article/10.1103/PhysRevLett.117.028301/figures/2/thumbnail
+  tags:
+  - analysis and modeling
+- id: doi:10.1109/TIFS.2016.2535901
+  title: Iris Recognition Based on Human-Interpretable Features
+  authors:
+  - Jianxu Chen
+  - Feng Shen
+  - Danny Ziyi Chen
+  - Patrick J. Flynn
+  publisher: IEEE Transactions on Information Forensics and Security
+  date: '2016-07-01'
+  link: https://doi.org/f8jtrt
+  image: https://journals.aps.org/prl/article/10.1103/PhysRevLett.117.028301/figures/2/thumbnail
+  tags:
+  - human-in-the-loop
+  - image recognition
+  - forensics
+- id: doi:https://doi.org/10.1007/978-3-319-66179-7_46
+  title: 'Suggestive Annotation: A Deep Active Learning Framework for Biomedical Image
+    Segmentation'
+  authors:
+  - Lin Yang
+  - Yizhe Zhang
+  - Jianxu Chen
+  - Siyuan Zhang
+  - Danny Z. Chen
+  publisher: Lecture Notes in Computer Science
+  date: '2017-01-01'
+  link: https://doi.org/gkqs4p
+  image: https://www.miccai2021.org/files/images/layout/en/miccai-logo.png
+  tags:
+  - image segmentation
+  - human-in-the-loop
+- id: doi:https://doi.org/10.1007/978-3-319-66179-7_47
+  title: Deep Adversarial Networks for Biomedical Image Segmentation Utilizing Unannotated
+    Images
+  authors:
+  - Yizhe Zhang
+  - Lin Yang
+  - Jianxu Chen
+  - Maridel Fredericksen
+  - David P. Hughes
+  - Danny Z. Chen
+  publisher: Lecture Notes in Computer Science
+  date: '2017-01-01'
+  link: https://doi.org/gktgds
+  image: https://www.miccai2021.org/files/images/layout/en/miccai-logo.png
+  tags:
+  - image segmentation
+  - unlabeled data
