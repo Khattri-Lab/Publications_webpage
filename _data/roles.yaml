@@ -1,6 +1,6 @@
-pi:
+lead:
   icon: fas fa-microscope
-  text: Principal Investigator
+  text: Group Leader
 
 postdoc:
   icon: fas fa-glasses

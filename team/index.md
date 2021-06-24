@@ -15,7 +15,7 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+  filters="role: lead"
 %}
 {%
   include list.html
@@ -39,7 +39,7 @@ nav:
 
 {% include section.html background="images/banner.svg" dark=true%}
 
-We are actively looking for top talents. Contact us if you want to join!
+We are actively looking for top talents.
 {%
   include link.html
   icon="fas fa-hands-helping"

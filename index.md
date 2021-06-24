@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# synergize microscopy, machine vision and AI 
+# synergize AI, machine vision and microscopy 
 
 We believe AI-based microscopy machine vision research requires a highly interdisciplinary field requiring good knowledge of machine learning, computer vision, microscopy and the associated biomedical applications. For example, applying deep learning on a specifcal microscopy image analysis problem is much more than collecting a bunch of images, making annotations, and throwing the data into a neural network. How to evaluate the quality of your data annotation? What if different people have slightly different annotations? How can I annotate the minimal amount of data to achieve to desired accuracy? ... 
 
