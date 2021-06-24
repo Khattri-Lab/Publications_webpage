@@ -12,7 +12,7 @@
   publisher: Institute of Electrical and Electronics Engineers (IEEE)
   date: '2020-12-16'
   link: https://doi.org/gkspnj
-  image: https://d3smihljt9218e.cloudfront.net/event/59/logo/small-05e6fdd38ac17bfddebc838a4069a756.png
+  image: null
   extra-links:
   - type: manubot
     link: https://greenelab.github.io/knowledge-graph-review/
@@ -68,6 +68,7 @@
   tags:
   - image segmentation
   - 3D
+  - tool
 - id: doi:10.1109/ISBI.2019.8759430
   title: 'Cascade Decoder: A Universal Decoding Method For Biomedical Image Segmentation'
   authors:
@@ -135,7 +136,8 @@
   image: https://www.miccai2021.org/files/images/layout/en/miccai-logo.png
   tags:
   - image segmentation
-- id: doi:https://doi.org/10.1016/j.cels.2021.05.001
+- &id001
+  id: doi:https://doi.org/10.1016/j.cels.2021.05.001
   title: 'Cell states beyond transcriptomics: Integrating structural organization
     and gene expression in hiPSC-derived cardiomyocytes'
   authors:
@@ -166,42 +168,11 @@
   date: '2021-06-01'
   link: https://doi.org/gktgdk
   image: https://www.allencell.org/uploads/8/1/9/9/81996008/cellsystems-cover-fish-aics-cos-2-final-thumb_2.png
-  tags: &id001
+  tags:
   - caridomyocyte
   - analysis and modeling
   - image segmentation
-- id: doi:https://doi.org/10.1016/j.cels.2021.05.001
-  title: 'Cell states beyond transcriptomics: Integrating structural organization
-    and gene expression in hiPSC-derived cardiomyocytes'
-  authors:
-  - Kaytlyn A. Gerbin
-  - Tanya Grancharova
-  - Rory M. Donovan-Maiye
-  - Melissa C. Hendershott
-  - Helen G. Anderson
-  - Jackson M. Brown
-  - Jianxu Chen
-  - Stephanie Q. Dinh
-  - Jamie L. Gehring
-  - Gregory R. Johnson
-  - HyeonWoo Lee
-  - Aditya Nath
-  - Angelique M. Nelson
-  - M. Filip Sluzewski
-  - Matheus P. Viana
-  - Calysta Yan
-  - Rebecca J. Zaunbrecher
-  - Kimberly R. Cordes Metzler
-  - Nathalie Gaudreault
-  - Theo A. Knijnenburg
-  - Susanne M. Rafelski
-  - Julie A. Theriot
-  - Ruwanthi N. Gunawardane
-  publisher: Cell Systems
-  date: '2021-06-01'
-  link: https://doi.org/gktgdk
-  image: https://www.allencell.org/uploads/8/1/9/9/81996008/cellsystems-cover-fish-aics-cos-2-final-thumb_2.png
-  tags: *id001
+- *id001
 - id: doi:10.1128/JB.00184-19
   title: Single Cells Exhibit Differing Behavioral Phases during Early Stages of Pseudomonas
     aeruginosa Swarming
@@ -335,3 +306,107 @@
   tags:
   - image segmentation
   - unlabeled data
+- id: doi:https://doi.org/10.1145/3061639.3062297
+  title: Optimizing Memory Efficiency for Convolution Kernels on Kepler GPUs
+  authors:
+  - Xiaoming Chen
+  - Jianxu Chen
+  - Danny Z. Chen
+  - Xiaobo Sharon Hu
+  publisher: Association for Computing Machinery (ACM)
+  date: '2017-06-18'
+  link: https://doi.org/gktgvn
+  image: null
+  tags:
+  - hardware/software co-design
+- id: doi:10.1109/ISBI.2016.7493426
+  title: Segmentation and tracking of Pseudomonas aeruginosa for cell dynamics analysis
+    in time-lapse images
+  authors:
+  - Jianxu Chen
+  - Yiqing Cai
+  - Chen Wei
+  - Lin Yang
+  - Mark S. Alber
+  - Danny Z. Chen
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2016-04-01'
+  link: https://doi.org/gktgvp
+  image: null
+  tags: &id002
+  - image segmentation
+  - cell tracking
+- id: doi:10.1109/ISBI.2016.7493426
+  title: Segmentation and tracking of Pseudomonas aeruginosa for cell dynamics analysis
+    in time-lapse images
+  authors:
+  - Jianxu Chen
+  - Yiqing Cai
+  - Chen Wei
+  - Lin Yang
+  - Mark S. Alber
+  - Danny Z. Chen
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2016-04-01'
+  link: https://doi.org/gktgvp
+  image: null
+  tags: *id002
+- id: doi:https://doi.org/10.1007/978-3-319-24574-4_34
+  title: A Hybrid Approach for Segmentation and Tracking of Myxococcus Xanthus Swarms
+  authors:
+  - Jianxu Chen
+  - Shant Mahserejian
+  - Mark Alber
+  - Danny Z. Chen
+  publisher: Lecture Notes in Computer Science
+  date: '2015-01-01'
+  link: https://doi.org/gktgvq
+  image: null
+  tags:
+  - image segmentation
+  - cell tracking
+- id: doi:10.1109/ISBA.2015.7126352
+  title: Iris recognition based on human-interpretable features
+  authors:
+  - Jianxu Chen
+  - Feng Shen
+  - Danny Z. Chen
+  - Patrick J. Flynn
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2015-03-01'
+  link: https://doi.org/gktgvr
+  image: https://journals.aps.org/prl/article/10.1103/PhysRevLett.117.028301/figures/2/thumbnail
+  tags:
+  - human-in-the-loop
+  - image recognition
+  - forensics
+- id: doi:https://doi.org/10.1007/978-3-319-10470-6_15
+  title: "A Matching Model Based on Earth Mover\u2019s Distance for Tracking Myxococcus\
+    \ Xanthus"
+  authors:
+  - Jianxu Chen
+  - Cameron W. Harvey
+  - Mark S. Alber
+  - Danny Z. Chen
+  publisher: Lecture Notes in Computer Science
+  date: '2014-01-01'
+  link: https://doi.org/gktgvs
+  image: null
+  tags:
+  - cell tracking
+- id: doi:10.1109/CBMS.2014.62
+  title: An Automated Approach for Fibrin Network Segmentation and Structure Identification
+    in 3D Confocal Microscopy Images
+  authors:
+  - Jianxu Chen
+  - Oleg V. Kim
+  - Rustem I. Litvinov
+  - John W. Weisel
+  - Mark S. Alber
+  - Danny Z. Chen
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2014-05-01'
+  link: https://doi.org/gktgvt
+  image: null
+  tags:
+  - image segmentation
