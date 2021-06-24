@@ -1,8 +1,5 @@
 - id: doi:10.1109/BIBM49941.2020.9313428
-  image: https://d3smihljt9218e.cloudfront.net/event/59/logo/small-05e6fdd38ac17bfddebc838a4069a756.png
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
+  image:
   tags:
     - histopathology image
     - image transformation
@@ -28,6 +25,7 @@
   tags:
     - image segmentation
     - 3D
+    - tool
 
 - id: doi:10.1109/ISBI.2019.8759430
   image: https://biomedicalimaging.org/2019/wp-content/uploads/sites/43/2018/03/ISBI_2019_banner_web-960.jpg
@@ -114,4 +112,45 @@
     - image segmentation
     - unlabeled data
 
+- id: doi:https://doi.org/10.1145/3061639.3062297
+  image:
+  tags:
+    - hardware/software co-design
 
+- id: doi:10.1109/ISBI.2016.7493426
+  image: 
+  tags:
+    - image segmentation
+    - cell tracking
+
+- id: doi:10.1109/ISBI.2016.7493426
+  image: 
+  tags:
+    - image segmentation
+    - cell tracking
+    - tool
+
+- id: doi:https://doi.org/10.1007/978-3-319-24574-4_34
+  image: 
+  tags:
+    - image segmentation
+    - cell tracking
+    
+- id: doi:10.1109/ISBA.2015.7126352
+  image: https://journals.aps.org/prl/article/10.1103/PhysRevLett.117.028301/figures/2/thumbnail
+  tags:
+    - human-in-the-loop
+    - image recognition
+    - forensics
+    
+- id: doi:https://doi.org/10.1007/978-3-319-10470-6_15
+  image: 
+  tags:
+    - cell tracking
+
+- id: doi:10.1109/CBMS.2014.62
+  image: 
+  tags:
+    - image segmentation
+
+    
