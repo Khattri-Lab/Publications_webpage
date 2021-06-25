@@ -9,7 +9,7 @@
   - Lin Yang
   - Yizhe Zhang
   - Danny Z. Chen
-  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  publisher: IEEE BIBM 2020
   date: '2020-12-16'
   link: https://doi.org/gkspnj
   image: null
@@ -32,7 +32,7 @@
   - Hao Zheng
   - Pengfei Gu
   - Danny Chen
-  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  publisher: IEEE CBMS 2020
   date: '2020-07-01'
   link: https://doi.org/gkspnk
   image: http://www.cbms2020.org/images/logo-cbms2020-v1.png
@@ -116,10 +116,10 @@
   - Lin Yang
   - Jeremiah J. Zartman
   - Danny Z. Chen
-  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  publisher: IEEE ISBI 2018
   date: '2018-04-01'
   link: https://doi.org/gkspqm
-  image: https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2017/09/AAAI-19-Hawaii-Beach-Shade.png
+  image: null
   tags:
   - image registration
 - id: doi:https://doi.org/10.1007/978-3-319-66185-8_3
@@ -130,7 +130,7 @@
   - Abhinav Grama
   - Walter J. Scheirer
   - Danny Z. Chen
-  publisher: Lecture Notes in Computer Science
+  publisher: MICCAI 2017
   date: '2017-01-01'
   link: https://doi.org/gkspqn
   image: https://www.miccai2021.org/files/images/layout/en/miccai-logo.png
@@ -172,14 +172,17 @@
   - analysis and modeling
   - image segmentation
 - id: url:https://papers.nips.cc/paper/2016/hash/4dcf435435894a4d0972046fc566af76-Abstract.html
-  title: A Dynamical Approach to Temporal Pattern Processing
+  title: Combining Fully Convolutional and Recurrent Neural Networks for 3D Biomedical
+    Image Segmentation
   authors:
-  - W. Stornetta
-  - Tad Hogg
-  - Bernardo Huberman
-  publisher: Neural Information Processing Systems
-  date: '1988-01-01'
-  link: hhttps://proceedings.neurips.cc/paper/2016/file/4dcf435435894a4d0972046fc566af76-Paper.pdf
+  - J. Chen
+  - L. Yang
+  - Y. Zhang
+  - M. Alber
+  - D. Chen
+  publisher: NeurIPS 2016
+  date: '2016-12-05'
+  link: https://proceedings.neurips.cc/paper/2016/file/4dcf435435894a4d0972046fc566af76-Paper.pdf
   image: null
   tags:
   - recurrent neural network
@@ -293,7 +296,7 @@
   - Jianxu Chen
   - Siyuan Zhang
   - Danny Z. Chen
-  publisher: Lecture Notes in Computer Science
+  publisher: MICCAI 2017
   date: '2017-01-01'
   link: https://doi.org/gkqs4p
   image: https://www.miccai2021.org/files/images/layout/en/miccai-logo.png
@@ -310,7 +313,7 @@
   - Maridel Fredericksen
   - David P. Hughes
   - Danny Z. Chen
-  publisher: Lecture Notes in Computer Science
+  publisher: MICCAI 2017
   date: '2017-01-01'
   link: https://doi.org/gktgds
   image: https://www.miccai2021.org/files/images/layout/en/miccai-logo.png
@@ -324,14 +327,13 @@
   - Jianxu Chen
   - Danny Z. Chen
   - Xiaobo Sharon Hu
-  publisher: Association for Computing Machinery (ACM)
+  publisher: ACM Design Automation Conference 2017
   date: '2017-06-18'
   link: https://doi.org/gktgvn
   image: null
   tags:
   - hardware/software co-design
-- &id001
-  id: doi:10.1109/ISBI.2016.7493426
+- id: doi:10.1109/ISBI.2016.7493426
   title: Segmentation and tracking of Pseudomonas aeruginosa for cell dynamics analysis
     in time-lapse images
   authors:
@@ -341,14 +343,13 @@
   - Lin Yang
   - Mark S. Alber
   - Danny Z. Chen
-  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  publisher: IEEE ISBI 2016
   date: '2016-04-01'
   link: https://doi.org/gktgvp
   image: null
   tags:
   - image segmentation
   - cell tracking
-- *id001
 - id: doi:https://doi.org/10.1007/978-3-319-24574-4_34
   title: A Hybrid Approach for Segmentation and Tracking of Myxococcus Xanthus Swarms
   authors:
@@ -356,7 +357,7 @@
   - Shant Mahserejian
   - Mark Alber
   - Danny Z. Chen
-  publisher: Lecture Notes in Computer Science
+  publisher: MICCAI 2015
   date: '2015-01-01'
   link: https://doi.org/gktgvq
   image: null
@@ -370,7 +371,7 @@
   - Feng Shen
   - Danny Z. Chen
   - Patrick J. Flynn
-  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  publisher: IEEE International Conference on Identity, Security, and Behavior Analysis
   date: '2015-03-01'
   link: https://doi.org/gktgvr
   image: https://journals.aps.org/prl/article/10.1103/PhysRevLett.117.028301/figures/2/thumbnail
@@ -386,7 +387,7 @@
   - Cameron W. Harvey
   - Mark S. Alber
   - Danny Z. Chen
-  publisher: Lecture Notes in Computer Science
+  publisher: MICCAI 2014
   date: '2014-01-01'
   link: https://doi.org/gktgvs
   image: null
@@ -402,7 +403,7 @@
   - John W. Weisel
   - Mark S. Alber
   - Danny Z. Chen
-  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  publisher: IEEE CBMS 2014
   date: '2014-05-01'
   link: https://doi.org/gktgvt
   image: null
