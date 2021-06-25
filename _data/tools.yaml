@@ -3,14 +3,12 @@
   image: images/photo.jpg
   link: https://github.com/
   description: coming soon ...
-  repo: greenelab/lab-website-template
 
 - name: my dataset
   group: data
   image: images/photo.jpg
   link: https://github.com/
   description: coming soon .... 
-  repo: greenelab/lab-website-template
 
 - name: 3D cell stage classifier
   group: previous

@@ -32,12 +32,14 @@
   tags:
     - image segmentation
     - 3D
+  publisher: IEEE ISBI 2019
 
 - id: doi:https://doi.org/10.1609/aaai.v33i01.33015901
   image: https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2017/09/AAAI-19-Hawaii-Beach-Shade.png
   tags:
     - image segmentation
     - efficient annotation
+  publisher: AAAI 2019
 
 - id: doi:10.1109/ISBI.2018.8363724
   image: https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2017/09/AAAI-19-Hawaii-Beach-Shade.png
@@ -56,11 +58,10 @@
     - analysis and modeling
     - image segmentation
 
-- id: doi:https://doi.org/10.1016/j.cels.2021.05.001
-  image: https://www.allencell.org/uploads/8/1/9/9/81996008/cellsystems-cover-fish-aics-cos-2-final-thumb_2.png
+- id: url:https://papers.nips.cc/paper/2016/hash/4dcf435435894a4d0972046fc566af76-Abstract.html
+  image: 
   tags:
-    - caridomyocyte
-    - analysis and modeling
+    - recurrent neural network
     - image segmentation
 
 - id: doi:10.1128/JB.00184-19
