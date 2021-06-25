@@ -5,11 +5,13 @@
     - image transformation
     - image segmentation
     - unlabeled data
+  publisher: IEEE BIBM 2020
 
 - id: doi:10.1109/CBMS49503.2020.00069
   image: http://www.cbms2020.org/images/logo-cbms2020-v1.png
   tags:
     - cell tracking
+  publisher: IEEE CBMS 2020
 
 - id: doi:https://doi.org/10.1101/491035
   image: https://www.allencell.org/uploads/8/1/9/9/81996008/published/overview-2020-12.png?1607460428
@@ -42,14 +44,16 @@
   publisher: AAAI 2019
 
 - id: doi:10.1109/ISBI.2018.8363724
-  image: https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2017/09/AAAI-19-Hawaii-Beach-Shade.png
+  image: 
   tags:
     - image registration
+  publisher: IEEE ISBI 2018
     
 - id: doi:https://doi.org/10.1007/978-3-319-66185-8_3
   image: https://www.miccai2021.org/files/images/layout/en/miccai-logo.png
   tags:
     - image segmentation
+  publisher: MICCAI 2017
 
 - id: doi:https://doi.org/10.1016/j.cels.2021.05.001
   image: https://www.allencell.org/uploads/8/1/9/9/81996008/cellsystems-cover-fish-aics-cos-2-final-thumb_2.png
@@ -59,6 +63,16 @@
     - image segmentation
 
 - id: url:https://papers.nips.cc/paper/2016/hash/4dcf435435894a4d0972046fc566af76-Abstract.html
+  title: Combining Fully Convolutional and Recurrent Neural Networks for 3D Biomedical Image Segmentation
+  authors:
+    - J. Chen
+    - L. Yang
+    - Y. Zhang
+    - M. Alber
+    - D. Chen
+  publisher: NeurIPS 2016
+  date: '2016-12-05'
+  link: https://proceedings.neurips.cc/paper/2016/file/4dcf435435894a4d0972046fc566af76-Paper.pdf
   image: 
   tags:
     - recurrent neural network
@@ -88,6 +102,7 @@
   tags:
     - image segmentation
     - cell tracking
+  publisher: IEEE Transactions on Medical Imaging
 
 - id: doi:10.1103/PhysRevLett.117.028301
   image: https://journals.aps.org/prl/article/10.1103/PhysRevLett.117.028301/figures/2/thumbnail
@@ -106,36 +121,34 @@
   tags:
     - image segmentation
     - human-in-the-loop
+  publisher: MICCAI 2017
 
 - id: doi:https://doi.org/10.1007/978-3-319-66179-7_47
   image: https://www.miccai2021.org/files/images/layout/en/miccai-logo.png
   tags:
     - image segmentation
     - unlabeled data
+  publisher: MICCAI 2017
 
 - id: doi:https://doi.org/10.1145/3061639.3062297
   image:
   tags:
     - hardware/software co-design
+  publisher: ACM Design Automation Conference 2017
 
 - id: doi:10.1109/ISBI.2016.7493426
   image: 
   tags:
     - image segmentation
     - cell tracking
-
-- id: doi:10.1109/ISBI.2016.7493426
-  image: 
-  tags:
-    - image segmentation
-    - cell tracking
-    - tool
+  publisher: IEEE ISBI 2016
 
 - id: doi:https://doi.org/10.1007/978-3-319-24574-4_34
   image: 
   tags:
     - image segmentation
     - cell tracking
+  publisher: MICCAI 2015
     
 - id: doi:10.1109/ISBA.2015.7126352
   image: https://journals.aps.org/prl/article/10.1103/PhysRevLett.117.028301/figures/2/thumbnail
@@ -143,15 +156,18 @@
     - human-in-the-loop
     - image recognition
     - forensics
+  publisher: IEEE International Conference on Identity, Security, and Behavior Analysis
     
 - id: doi:https://doi.org/10.1007/978-3-319-10470-6_15
   image: 
   tags:
     - cell tracking
+  publisher: MICCAI 2014
 
 - id: doi:10.1109/CBMS.2014.62
   image: 
   tags:
     - image segmentation
+  publisher: IEEE CBMS 2014
 
     
