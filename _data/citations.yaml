@@ -78,7 +78,7 @@
   - Lin Yang
   - Yizhe Zhang
   - Danny Z. Chen
-  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  publisher: IEEE ISBI 2019
   date: '2019-04-01'
   link: https://doi.org/gkspnn
   image: https://biomedicalimaging.org/2019/wp-content/uploads/sites/43/2018/03/ISBI_2019_banner_web-960.jpg
@@ -97,7 +97,7 @@
   - Zhuo Zhao
   - Chaoli Wang
   - Danny Z. Chen
-  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  publisher: AAAI 2019
   date: '2019-07-17'
   link: https://doi.org/ghkj3s
   image: https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2017/09/AAAI-19-Hawaii-Beach-Shade.png
@@ -136,8 +136,7 @@
   image: https://www.miccai2021.org/files/images/layout/en/miccai-logo.png
   tags:
   - image segmentation
-- &id001
-  id: doi:https://doi.org/10.1016/j.cels.2021.05.001
+- id: doi:https://doi.org/10.1016/j.cels.2021.05.001
   title: 'Cell states beyond transcriptomics: Integrating structural organization
     and gene expression in hiPSC-derived cardiomyocytes'
   authors:
@@ -172,7 +171,19 @@
   - caridomyocyte
   - analysis and modeling
   - image segmentation
-- *id001
+- id: url:https://papers.nips.cc/paper/2016/hash/4dcf435435894a4d0972046fc566af76-Abstract.html
+  title: A Dynamical Approach to Temporal Pattern Processing
+  authors:
+  - W. Stornetta
+  - Tad Hogg
+  - Bernardo Huberman
+  publisher: Neural Information Processing Systems
+  date: '1988-01-01'
+  link: https://proceedings.neurips.cc/paper/1987/file/fbd7939d674997cdb4692d34de8633c4-Paper.pdf
+  image: null
+  tags:
+  - recurrent neural network
+  - image segmentation
 - id: doi:10.1128/JB.00184-19
   title: Single Cells Exhibit Differing Behavioral Phases during Early Stages of Pseudomonas
     aeruginosa Swarming
@@ -319,7 +330,8 @@
   image: null
   tags:
   - hardware/software co-design
-- id: doi:10.1109/ISBI.2016.7493426
+- &id001
+  id: doi:10.1109/ISBI.2016.7493426
   title: Segmentation and tracking of Pseudomonas aeruginosa for cell dynamics analysis
     in time-lapse images
   authors:
@@ -333,24 +345,10 @@
   date: '2016-04-01'
   link: https://doi.org/gktgvp
   image: null
-  tags: &id002
+  tags:
   - image segmentation
   - cell tracking
-- id: doi:10.1109/ISBI.2016.7493426
-  title: Segmentation and tracking of Pseudomonas aeruginosa for cell dynamics analysis
-    in time-lapse images
-  authors:
-  - Jianxu Chen
-  - Yiqing Cai
-  - Chen Wei
-  - Lin Yang
-  - Mark S. Alber
-  - Danny Z. Chen
-  publisher: Institute of Electrical and Electronics Engineers (IEEE)
-  date: '2016-04-01'
-  link: https://doi.org/gktgvp
-  image: null
-  tags: *id002
+- *id001
 - id: doi:https://doi.org/10.1007/978-3-319-24574-4_34
   title: A Hybrid Approach for Segmentation and Tracking of Myxococcus Xanthus Swarms
   authors:
