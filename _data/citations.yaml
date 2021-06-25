@@ -13,9 +13,6 @@
   date: '2020-12-16'
   link: https://doi.org/gkspnj
   image: null
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
   tags:
   - histopathology image
   - image transformation
