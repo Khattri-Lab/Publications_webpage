@@ -16,7 +16,7 @@
   link: https://github.com/AllenCell/image_classifier_3d
   description: mitotic classifier
 
-- name: <software> Iterative ML segmentation for 3D microscopy images
+- name: SOFTWARE - Iterative ML segmentation for 3D microscopy images
   group: previous
   image: images/photo.jpg
   link: https://github.com/AllenCell/aics-ml-segmentation
