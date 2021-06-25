@@ -15,3 +15,29 @@
   image: images/photo.jpg
   link: https://github.com/AllenCell/image_classifier_3d
   description: mitotic classifier
+  tags:
+    - open software
+
+- name: Iterative ML segmentation for 3D microscopy images
+  group: previous
+  image: images/photo.jpg
+  link: https://github.com/AllenCell/aics-ml-segmentation
+  description: This is the ML part of Allen Cell and Structure Segmenter software
+  tags:
+    - open software
+
+- name: Classic image segmentation for 3D microscopy images
+  group: previous
+  image: images/photo.jpg
+  link: https://github.com/AllenCell/aics-segmentation
+  description: This is the classic part of Allen Cell and Structure Segmenter software
+  tags:
+    - open software
+
+- name: 3D single cell dataset with cell stage annotation 
+  group: previous
+  image: images/photo.jpg
+  link: https://open.quiltdata.com/b/allencell/packages/aics/hipsc_single_cell_image_dataset
+  description: Dataset used to train the 3D mitotic classifier
+  tags:
+    - open data

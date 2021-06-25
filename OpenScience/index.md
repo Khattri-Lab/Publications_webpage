@@ -5,29 +5,28 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# <i class="fas fa-tools"></i>Tools
+# <i class="fas fa-tools"></i> Open Science Portal
 
-Our group is fully commited to open science, such as open source softwares/packages, public datasets, open access publications. We believe open science can lead to impactful big science.
+Our group is fully commited to open science, from developing/contributing to open source softwares to building public datasets for AI research as well as open access publications. We believe open science can lead to impactful big science. Currently, our group has a special focus on building AI-based biomedical image analysis methods/tools/datasets for light-sheet fluorescence microscopy (LSFM) data. Meanwhile, on this page, you can also find other open science works our group members built before other than LSFM.
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Open source packages
+## Open source softwares for LSFM
 
 {% include list.html component="card" data="tools" filters="group: featured" %}
 
 {% include section.html %}
 
-## Open datasets
+## Open datasets for LSFM
 
 {% include list.html component="card" data="tools" filters="group: more" style="small" %}
 
 
-
 {% include section.html %}
 
-## Previous open Works
+## Other open science works
 
 {% include list.html component="card" data="tools" filters="group: previous" %}
 

@@ -5,7 +5,7 @@ nav:
   tooltip: recent updates, articles and posts
 ---
 
-# <i class="fas fa-feather-alt"></i>Blog
+# <i class="fas fa-feather-alt"></i> News & Blog
 
 {% include section.html %}
 
