@@ -10,7 +10,7 @@
   link: https://github.com/
   description: coming soon .... 
 
-- name: <software> 3D cell stage classifier
+- name: SOFTWARE - 3D cell stage classifier
   group: previous
   image: images/photo.jpg
   link: https://github.com/AllenCell/image_classifier_3d
@@ -22,13 +22,13 @@
   link: https://github.com/AllenCell/aics-ml-segmentation
   description: This is the ML part of Allen Cell and Structure Segmenter software
 
-- name: <software> Classic image segmentation for 3D microscopy images
+- name: SOFTWARE - Classic image segmentation for 3D microscopy images
   group: previous
   image: images/photo.jpg
   link: https://github.com/AllenCell/aics-segmentation
   description: This is the classic part of Allen Cell and Structure Segmenter software
 
-- name: <data> 3D single cell dataset with cell stage annotation 
+- name: Data - 3D single cell dataset with cell stage annotation 
   group: previous
   image: images/photo.jpg
   link: https://open.quiltdata.com/b/allencell/packages/aics/hipsc_single_cell_image_dataset
