@@ -9,7 +9,7 @@
   - Lin Yang
   - Yizhe Zhang
   - Danny Z. Chen
-  publisher: IEEE BIBM 2020
+  publisher: IEEE BIBM
   date: '2020-12-16'
   link: https://doi.org/gkspnj
   image: null
@@ -29,7 +29,7 @@
   - Hao Zheng
   - Pengfei Gu
   - Danny Chen
-  publisher: IEEE CBMS 2020
+  publisher: IEEE CBMS
   date: '2020-07-01'
   link: https://doi.org/gkspnk
   image: http://www.cbms2020.org/images/logo-cbms2020-v1.png
@@ -49,7 +49,7 @@
   - Ruian Yang
   - Irina A. Mueller
   - Susanne M. Rafelski
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2020-12-13'
   link: https://doi.org/gkspnm
   image: https://www.allencell.org/uploads/8/1/9/9/81996008/published/overview-2020-12.png?1607460428
@@ -75,7 +75,7 @@
   - Lin Yang
   - Yizhe Zhang
   - Danny Z. Chen
-  publisher: IEEE ISBI 2019
+  publisher: IEEE ISBI
   date: '2019-04-01'
   link: https://doi.org/gkspnn
   image: https://biomedicalimaging.org/2019/wp-content/uploads/sites/43/2018/03/ISBI_2019_banner_web-960.jpg
@@ -94,7 +94,7 @@
   - Zhuo Zhao
   - Chaoli Wang
   - Danny Z. Chen
-  publisher: AAAI 2019
+  publisher: AAAI
   date: '2019-07-17'
   link: https://doi.org/ghkj3s
   image: https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2017/09/AAAI-19-Hawaii-Beach-Shade.png
@@ -113,7 +113,7 @@
   - Lin Yang
   - Jeremiah J. Zartman
   - Danny Z. Chen
-  publisher: IEEE ISBI 2018
+  publisher: IEEE ISBI
   date: '2018-04-01'
   link: https://doi.org/gkspqm
   image: null
@@ -127,7 +127,7 @@
   - Abhinav Grama
   - Walter J. Scheirer
   - Danny Z. Chen
-  publisher: MICCAI 2017
+  publisher: MICCAI
   date: '2017-01-01'
   link: https://doi.org/gkspqn
   image: https://www.miccai2021.org/files/images/layout/en/miccai-logo.png
@@ -177,7 +177,7 @@
   - Y. Zhang
   - M. Alber
   - D. Chen
-  publisher: NeurIPS 2016
+  publisher: NeurIPS
   date: '2016-12-05'
   link: https://proceedings.neurips.cc/paper/2016/file/4dcf435435894a4d0972046fc566af76-Paper.pdf
   image: null
@@ -293,7 +293,7 @@
   - Jianxu Chen
   - Siyuan Zhang
   - Danny Z. Chen
-  publisher: MICCAI 2017
+  publisher: MICCAI
   date: '2017-01-01'
   link: https://doi.org/gkqs4p
   image: https://www.miccai2021.org/files/images/layout/en/miccai-logo.png
@@ -310,7 +310,7 @@
   - Maridel Fredericksen
   - David P. Hughes
   - Danny Z. Chen
-  publisher: MICCAI 2017
+  publisher: MICCAI
   date: '2017-01-01'
   link: https://doi.org/gktgds
   image: https://www.miccai2021.org/files/images/layout/en/miccai-logo.png
@@ -324,7 +324,7 @@
   - Jianxu Chen
   - Danny Z. Chen
   - Xiaobo Sharon Hu
-  publisher: ACM Design Automation Conference 2017
+  publisher: ACM Design Automation Conference
   date: '2017-06-18'
   link: https://doi.org/gktgvn
   image: null
@@ -340,7 +340,7 @@
   - Lin Yang
   - Mark S. Alber
   - Danny Z. Chen
-  publisher: IEEE ISBI 2016
+  publisher: IEEE ISBI
   date: '2016-04-01'
   link: https://doi.org/gktgvp
   image: null
@@ -354,7 +354,7 @@
   - Shant Mahserejian
   - Mark Alber
   - Danny Z. Chen
-  publisher: MICCAI 2015
+  publisher: MICCAI
   date: '2015-01-01'
   link: https://doi.org/gktgvq
   image: null
@@ -384,7 +384,7 @@
   - Cameron W. Harvey
   - Mark S. Alber
   - Danny Z. Chen
-  publisher: MICCAI 2014
+  publisher: MICCAI
   date: '2014-01-01'
   link: https://doi.org/gktgvs
   image: null
@@ -400,7 +400,7 @@
   - John W. Weisel
   - Mark S. Alber
   - Danny Z. Chen
-  publisher: IEEE CBMS 2014
+  publisher: IEEE CBMS
   date: '2014-05-01'
   link: https://doi.org/gktgvt
   image: null
