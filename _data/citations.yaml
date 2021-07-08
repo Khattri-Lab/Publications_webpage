@@ -32,7 +32,7 @@
   publisher: IEEE CBMS
   date: '2020-07-01'
   link: https://doi.org/gkspnk
-  image: http://www.cbms2020.org/images/logo-cbms2020-v1.png
+  image: ../images/cbms.png
   tags:
   - cell tracking
 - id: doi:https://doi.org/10.1101/491035
@@ -313,7 +313,7 @@
   publisher: MICCAI
   date: '2017-01-01'
   link: https://doi.org/gktgds
-  image: https://www.miccai2021.org/files/images/layout/en/miccai-logo.png
+  image: ../images/MICCAI.png
   tags:
   - image segmentation
   - unlabeled data
@@ -357,7 +357,7 @@
   publisher: MICCAI
   date: '2015-01-01'
   link: https://doi.org/gktgvq
-  image: null
+  image: ../images/MICCAI.png
   tags:
   - image segmentation
   - cell tracking
@@ -387,7 +387,7 @@
   publisher: MICCAI
   date: '2014-01-01'
   link: https://doi.org/gktgvs
-  image: null
+  image: ../images/MICCAI.png
   tags:
   - cell tracking
 - id: doi:10.1109/CBMS.2014.62
@@ -403,6 +403,6 @@
   publisher: IEEE CBMS
   date: '2014-05-01'
   link: https://doi.org/gktgvt
-  image: null
+  image: ../images/cbms.png
   tags:
   - image segmentation
