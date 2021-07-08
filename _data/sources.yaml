@@ -8,7 +8,7 @@
   publisher: IEEE BIBM
 
 - id: doi:10.1109/CBMS49503.2020.00069
-  image: http://www.cbms2020.org/images/logo-cbms2020-v1.png
+  image: ../images/cbms.png
   tags:
     - cell tracking
   publisher: IEEE CBMS
@@ -125,7 +125,7 @@
   publisher: MICCAI
 
 - id: doi:https://doi.org/10.1007/978-3-319-66179-7_47
-  image: https://www.miccai2021.org/files/images/layout/en/miccai-logo.png
+  image: ../images/MICCAI.png
   tags:
     - image segmentation
     - unlabeled data
@@ -145,7 +145,7 @@
   publisher: IEEE ISBI
 
 - id: doi:https://doi.org/10.1007/978-3-319-24574-4_34
-  image: 
+  image: ../images/MICCAI.png
   tags:
     - image segmentation
     - cell tracking
@@ -160,13 +160,13 @@
   publisher: IEEE International Conference on Identity, Security, and Behavior Analysis
     
 - id: doi:https://doi.org/10.1007/978-3-319-10470-6_15
-  image: 
+  image: ../images/MICCAI.png
   tags:
     - cell tracking
   publisher: MICCAI
 
 - id: doi:10.1109/CBMS.2014.62
-  image: 
+  image: ../images/cbms.png
   tags:
     - image segmentation
   publisher: IEEE CBMS
