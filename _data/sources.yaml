@@ -1,5 +1,5 @@
 - id: doi:10.1109/BIBM49941.2020.9313428
-  image:
+  image: ../images/he.png
   tags:
     - histopathology image
     - image transformation
@@ -14,7 +14,7 @@
   publisher: IEEE CBMS
 
 - id: doi:https://doi.org/10.1101/491035
-  image: https://www.allencell.org/uploads/8/1/9/9/81996008/published/overview-2020-12.png?1607460428
+  image: https://www.allencell.org/uploads/8/1/9/9/81996008/icon-segmenter2_orig.png
   extra-links:
     - type: website
       link: https://www.allencell.org/segmenter.html
@@ -31,27 +31,27 @@
   publisher: bioRxiv
 
 - id: doi:10.1109/ISBI.2019.8759430
-  image: https://biomedicalimaging.org/2019/wp-content/uploads/sites/43/2018/03/ISBI_2019_banner_web-960.jpg
+  image: ../images/isbi.png
   tags:
     - image segmentation
     - 3D
   publisher: IEEE ISBI
 
 - id: doi:https://doi.org/10.1609/aaai.v33i01.33015901
-  image: https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2017/09/AAAI-19-Hawaii-Beach-Shade.png
+  image: ../images/aaai.png
   tags:
     - image segmentation
     - efficient annotation
   publisher: AAAI
 
 - id: doi:10.1109/ISBI.2018.8363724
-  image: 
+  image: ../images/isbi.png
   tags:
     - image registration
   publisher: IEEE ISBI
     
 - id: doi:https://doi.org/10.1007/978-3-319-66185-8_3
-  image: https://www.miccai2021.org/files/images/layout/en/miccai-logo.png
+  image: ../images/MICCAI.png
   tags:
     - image segmentation
   publisher: MICCAI
@@ -74,7 +74,7 @@
   publisher: NeurIPS
   date: '2016-12-05'
   link: https://proceedings.neurips.cc/paper/2016/file/4dcf435435894a4d0972046fc566af76-Paper.pdf
-  image: 
+  image: ../images/nips.png
   tags:
     - recurrent neural network
     - image segmentation
@@ -99,7 +99,7 @@
     - analysis and modeling
 
 - id: doi:10.1109/TMI.2016.2548490
-  image: 
+  image: ../images/myxo.png
   tags:
     - image segmentation
     - cell tracking
@@ -111,14 +111,14 @@
     - analysis and modeling
 
 - id: doi:10.1109/TIFS.2016.2535901
-  image: https://journals.aps.org/prl/article/10.1103/PhysRevLett.117.028301/figures/2/thumbnail
+  image: ../images/iris.png
   tags:
     - human-in-the-loop
     - image recognition
     - forensics
 
 - id: doi:https://doi.org/10.1007/978-3-319-66179-7_46
-  image: https://www.miccai2021.org/files/images/layout/en/miccai-logo.png
+  image: ../images/MICCAI.png
   tags:
     - image segmentation
     - human-in-the-loop
@@ -132,13 +132,13 @@
   publisher: MICCAI
 
 - id: doi:https://doi.org/10.1145/3061639.3062297
-  image:
+  image: ../images/gpu.png
   tags:
     - hardware/software co-design
   publisher: ACM Design Automation Conference
 
 - id: doi:10.1109/ISBI.2016.7493426
-  image: 
+  image: ../images/pseudo.png
   tags:
     - image segmentation
     - cell tracking
@@ -152,7 +152,7 @@
   publisher: MICCAI
     
 - id: doi:10.1109/ISBA.2015.7126352
-  image: https://journals.aps.org/prl/article/10.1103/PhysRevLett.117.028301/figures/2/thumbnail
+  image: ../images/iris.png
   tags:
     - human-in-the-loop
     - image recognition
@@ -166,7 +166,7 @@
   publisher: MICCAI
 
 - id: doi:10.1109/CBMS.2014.62
-  image: ../images/cbms.png
+  image: ../images/firbin.png
   tags:
     - image segmentation
   publisher: IEEE CBMS
