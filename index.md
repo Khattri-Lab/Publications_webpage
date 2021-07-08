@@ -4,7 +4,7 @@ title: Home
 
 # synergize AI, machine vision and microscopy 
 
-AI-based microscopy machine vision research is a highly interdisciplinary field requiring good knowledge of machine learning, computer vision, microscopy and the associated biomedical applications. We develop new deep learning and computer vision algorithms driven by real biomedical applications, we also generalize or productionize existing deep learning and computer vision algorithms for high-dimenstional microscopy images, so that more people can access to the high-end algorithms in their biomedical research. To do this, we are building a diverse group with different expertise and embrace extensive internal and external collaborations.
+AI-based microscopy machine vision research is a highly interdisciplinary field requiring good knowledge of machine learning, computer vision, microscopy and the associated biomedical applications. We develop new deep learning and computer vision algorithms driven by real biomedical applications for R&D. We also generalize or productionize existing algorithms for high-dimenstional microscopy images, so that biomedical researchers are accesible to more the high-end AI algorithms. Currently, our focus is applications arose from whole-body or whole-organ imaging using lightsheet flurorescence microscopy (LSFM). But, the methods and tools are mostly generalizable for other modalities. In our group, we are building a diverse team with different expertises and embrace extensive internal and external collaborations.
 
 {:.center}
 
@@ -50,7 +50,7 @@ Our group is fully commited to open science, such as open source softwares/packa
 
 {% capture text %}
 
-We are building a team with diverse background and expertises, from software enigneering, machine learning, image analysis, data analysis to micr0scopy and computational biomedical modeling. 
+We are building a team with diverse background and expertises, from software enigneering, machine learning, image analysis, data analysis to microscopy and computational biomedical modeling. 
 
 [Meet our team &nbsp;→](team)
 {:.center}

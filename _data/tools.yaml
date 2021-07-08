@@ -33,3 +33,15 @@
   image: images/photo.jpg
   link: https://open.quiltdata.com/b/allencell/packages/aics/hipsc_single_cell_image_dataset
   description: Dataset used to train the 3D mitotic classif
+
+- name: ZeroCostDL4Mic
+  group: others
+  image: images/photo.jpg
+  link: https://github.com/HenriquesLab/ZeroCostDL4Mic
+  description: A collection of self-explanatory Jupyter Notebooks for Google Colab that features an easy-to-use graphical user interface. A good resource for learning deep learning applications in microscopy image analysis.
+
+- name: napari
+  group: others
+  image: https://napari.org/_static/logo.ico
+  link: https://napari.org/
+  description: A fast, interactive, multi-dimensional image viewer for Python, designed for browsing, annotating, and analyzing large multi-dimensional images

@@ -166,7 +166,7 @@
   publisher: MICCAI
 
 - id: doi:10.1109/CBMS.2014.62
-  image: ../images/firbin.png
+  image: ../images/fibrin.png
   tags:
     - image segmentation
   publisher: IEEE CBMS
