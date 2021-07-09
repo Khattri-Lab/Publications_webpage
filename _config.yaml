@@ -10,10 +10,10 @@ baseurl:
 
 # site social media and other links
 links:
-  email: jxchen01.ustc@gmail.com
-  google-scholar: Jianxu Chen
-  github: mmv-lab.github.io
-  twitter: TBD
+  email: jianxuchen.ai@gmail.com
+  google-scholar: HdolpOgAAAAJ
+  github: mmv-lab
+  twitter: JianxuChen
 
 # automatic citations
 auto-cite:

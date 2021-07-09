@@ -36,7 +36,7 @@ AI-based microscopy machine vision is a highly multi-disciplinary field. There a
 
 Our group is fully commited to open science, such as open source softwares/packages, public datasets, open access publications. We believe open science can lead to impactful big science.
 
-[Visit our open science portal &nbsp;→](resources)
+[Visit our open science portal &nbsp;→](OpenScience)
 {:.center}
 {% endcapture %}
 
