@@ -12,7 +12,7 @@
 
 - name: SOFTWARE - Classic image segmentation for 3D microscopy images
   group: previous
-  image: images/photo.jpg
+  image: images/segmenter_classic.png
   link: https://github.com/AllenCell/aics-segmentation
   description: This is the classic part of Allen Cell and Structure Segmenter software
 
@@ -24,7 +24,7 @@
 
 - name: ZeroCostDL4Mic
   group: others
-  image: images/photo.jpg
+  image: https://henriqueslab.github.io/images/ZeroCostDL4Mic.jpg
   link: https://github.com/HenriquesLab/ZeroCostDL4Mic
   description: A collection of self-explanatory Jupyter Notebooks for Google Colab that features an easy-to-use graphical user interface. A good resource for learning deep learning applications in microscopy image analysis.
 
