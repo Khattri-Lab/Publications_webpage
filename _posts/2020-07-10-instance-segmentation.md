@@ -8,8 +8,4 @@ author: Jianxu Chen
 member: jianxu-chen
 ---
 
-# Heading 1
-
-Outline:
-* 2D/3D instance segmentation 
-* common method
+post work-in-progress

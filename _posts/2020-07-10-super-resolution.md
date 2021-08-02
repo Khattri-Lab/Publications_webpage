@@ -7,9 +7,4 @@ author: Jianxu Chen
 member: jianxu-chen
 ---
 
-# Heading 1
-
-Outline:
-* basic concepts
-* essential method
-* tools
+post work-in-progress

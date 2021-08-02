@@ -1,24 +1,12 @@
-- name: my package
-  group: tool
-  image: images/photo.jpg
-  link: https://github.com/
-  description: coming soon ...
-
-- name: my dataset
-  group: data
-  image: images/photo.jpg
-  link: https://github.com/
-  description: coming soon .... 
-
-- name: SOFTWARE - 3D cell stage classifier
+- name: SOFTWARE - 3D cell cycle classifier
   group: previous
-  image: images/photo.jpg
+  image: images/mitotic.png
   link: https://github.com/AllenCell/image_classifier_3d
   description: mitotic classifier
 
 - name: SOFTWARE - Iterative ML segmentation for 3D microscopy images
   group: previous
-  image: images/photo.jpg
+  image: images/segmenter_ml.png
   link: https://github.com/AllenCell/aics-ml-segmentation
   description: This is the ML part of Allen Cell and Structure Segmenter software
 
@@ -30,7 +18,7 @@
 
 - name: Data - 3D single cell dataset with cell stage annotation 
   group: previous
-  image: images/photo.jpg
+  image: images/variance.png
   link: https://open.quiltdata.com/b/allencell/packages/aics/hipsc_single_cell_image_dataset
   description: Dataset used to train the 3D mitotic classif
 
@@ -42,6 +30,6 @@
 
 - name: napari
   group: others
-  image: https://napari.org/_static/logo.ico
+  image: images/napari.png
   link: https://napari.org/
   description: A fast, interactive, multi-dimensional image viewer for Python, designed for browsing, annotating, and analyzing large multi-dimensional images
