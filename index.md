@@ -43,7 +43,7 @@ Our group is fully commited to open science, such as open source softwares/packa
 {%
   include feature.html
   image="images/open.svg"
-  link="resources"
+  link="OpenScience"
   headline="Our Resources"
   text=text
 %}
