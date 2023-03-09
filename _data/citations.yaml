@@ -347,7 +347,7 @@
   tags:
   - image segmentation
   - cell tracking
-- id: doi:https://doi.org/10.1007/978-3-319-24574-4_34
+- id: doi:10.1007/978-3-319-24574-4_34
   title: A Hybrid Approach for Segmentation and Tracking of Myxococcus Xanthus Swarms
   authors:
   - Jianxu Chen
@@ -376,7 +376,7 @@
   - human-in-the-loop
   - image recognition
   - forensics
-- id: doi:https://doi.org/10.1007/978-3-319-10470-6_15
+- id: doi:10.1007/978-3-319-10470-6_15
   title: "A Matching Model Based on Earth Mover\u2019s Distance for Tracking Myxococcus\
     \ Xanthus"
   authors:
