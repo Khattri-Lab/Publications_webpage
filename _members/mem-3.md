@@ -1,15 +1,15 @@
 ---
-name: people_2
-image: images/unknown.svg
+name: Yu Zhou
+image: images/unknow.svg
 description: Ph.D. Researcher
 role: phd
 aliases:
-  - A. Chovie
-  - A Chovie
+  - Y. Zhou
+  - Yu
 links:
-  home-page: annechovie.com
-  email: anne@chovie.com
-  github: anne-chovie
+  google-scholar: TBA
+  email: TBA
+  twitter: TBA
 ---
 
-TBA by new member
+under construction

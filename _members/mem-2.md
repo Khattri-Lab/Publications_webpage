@@ -1,15 +1,15 @@
 ---
-name: people_1
-image: images/unknown.svg
-description: Postdoc Researcher
-role: postdoc
+name: Justin Sonnect
+image: images/unknow.svg
+description: Ph.D. Researcher
+role: phd
 aliases:
-  - F. Cited
-  - F Cited
+  - J. Sonneck
+  - Justin
 links:
-  home-page: felixcited.com
-  email: felix@cited.com
-  twitter: felixcited
+  google-scholar: TBA
+  email: TBA
+  twitter: TBA
 ---
 
-TBA by new member
+under construction

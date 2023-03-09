@@ -1,11 +1,11 @@
 ---
-name: Lennart Kowitz
+name: Jan Sollmann
 image: images/unknow.svg
-description: Software Enigneer
-role: programmer
+description: master student
+role: master
 aliases:
-  - L. Kowitz
-  - Lennart
+  - J. Sollmann
+  - Jan
 links:
   google-scholar: TBA
   email: TBA

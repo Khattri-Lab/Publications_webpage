@@ -1,15 +1,15 @@
 ---
-name: people_3
-image: images/unknown.svg
-description: IT/Software
-role: programmer
+name: Shuo Zhao
+image: images/unknow.svg
+description: Ph.D. Researcher
+role: phd
 aliases:
-  - F. Cited
-  - F Cited
+  - S. Zhao
+  - Shuo
 links:
-  home-page: felixcited.com
-  email: felix@cited.com
-  twitter: felixcited
+  google-scholar: TBA
+  email: TBA
+  twitter: TBA
 ---
 
-TBA by new member
+under construction
