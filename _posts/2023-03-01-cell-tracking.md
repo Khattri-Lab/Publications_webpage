@@ -1,9 +1,11 @@
 ---
-title: An overview of object tracking
+title: Cell Tracking Project
 tags:
-  - basic concepts
+  - projects
 author: Jianxu Chen
 member: jianxu-chen
 ---
 
 post work-in-progress
+
+TBA

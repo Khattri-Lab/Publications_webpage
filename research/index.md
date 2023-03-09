@@ -15,7 +15,7 @@ Please also check out our blog posts on [basic machine vision concepts](https://
 
 {% include section.html %}
 
-{% include list.html  data="projects" component="card" %}
+{% include list.html data="posts" component="post-excerpt" filters="tags: projects"%}
 
 {% include section.html %}
 
