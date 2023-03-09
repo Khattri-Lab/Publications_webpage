@@ -13,7 +13,7 @@
     - cell tracking
   publisher: IEEE CBMS
 
-- id: doi:https://doi.org/10.1101/491035
+- id: doi:10.1101/491035
   image: https://www.allencell.org/uploads/8/1/9/9/81996008/icon-segmenter2_orig.png
   extra-links:
     - type: website
@@ -37,7 +37,7 @@
     - 3D
   publisher: IEEE ISBI
 
-- id: doi:https://doi.org/10.1609/aaai.v33i01.33015901
+- id: doi:10.1609/aaai.v33i01.33015901
   image: ../images/aaai.png
   tags:
     - image segmentation
@@ -50,13 +50,13 @@
     - image registration
   publisher: IEEE ISBI
     
-- id: doi:https://doi.org/10.1007/978-3-319-66185-8_3
+- id: doi:10.1007/978-3-319-66185-8_3
   image: ../images/MICCAI.png
   tags:
     - image segmentation
   publisher: MICCAI
 
-- id: doi:https://doi.org/10.1016/j.cels.2021.05.001
+- id: doi:10.1016/j.cels.2021.05.001
   image: https://www.allencell.org/uploads/8/1/9/9/81996008/cellsystems-cover-fish-aics-cos-2-final-thumb_2.png
   tags:
     - caridomyocyte
@@ -117,21 +117,21 @@
     - image recognition
     - forensics
 
-- id: doi:https://doi.org/10.1007/978-3-319-66179-7_46
+- id: doi:10.1007/978-3-319-66179-7_46
   image: ../images/MICCAI.png
   tags:
     - image segmentation
     - human-in-the-loop
   publisher: MICCAI
 
-- id: doi:https://doi.org/10.1007/978-3-319-66179-7_47
+- id: doi:10.1007/978-3-319-66179-7_47
   image: ../images/MICCAI.png
   tags:
     - image segmentation
     - unlabeled data
   publisher: MICCAI
 
-- id: doi:https://doi.org/10.1145/3061639.3062297
+- id: doi:10.1145/3061639.3062297
   image: ../images/gpu.png
   tags:
     - hardware/software co-design
@@ -144,7 +144,7 @@
     - cell tracking
   publisher: IEEE ISBI
 
-- id: doi:https://doi.org/10.1007/978-3-319-24574-4_34
+- id: doi:10.1007/978-3-319-24574-4_34
   image: ../images/MICCAI.png
   tags:
     - image segmentation
@@ -159,7 +159,7 @@
     - forensics
   publisher: IEEE International Conference on Identity, Security, and Behavior Analysis
     
-- id: doi:https://doi.org/10.1007/978-3-319-10470-6_15
+- id: doi:10.1007/978-3-319-10470-6_15
   image: ../images/MICCAI.png
   tags:
     - cell tracking
