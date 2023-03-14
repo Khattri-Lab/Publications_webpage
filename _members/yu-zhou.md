@@ -1,11 +1,11 @@
 ---
-name: Shuo Zhao
-image: images/unknow.svg
+name: Yu Zhou
+image: images/unknow.png
 description: Ph.D. Researcher
 role: phd
 aliases:
-  - S. Zhao
-  - Shuo
+  - Y. Zhou
+  - Yu
 links:
   google-scholar: TBA
   email: TBA

@@ -1,11 +1,11 @@
 ---
-name: Yu Zhou
-image: images/unknow.svg
+name: Justin Sonnect
+image: images/unknow.png
 description: Ph.D. Researcher
 role: phd
 aliases:
-  - Y. Zhou
-  - Yu
+  - J. Sonneck
+  - Justin
 links:
   google-scholar: TBA
   email: TBA

@@ -1,6 +1,6 @@
 ---
 name: Peter Lampen
-image: images/unknow.svg
+image: images/unknow.png
 description: Software Enigneer
 role: programmer
 aliases:

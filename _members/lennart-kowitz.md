@@ -1,6 +1,6 @@
 ---
 name: Lennart Kowitz
-image: images/unknow.svg
+image: images/unknow.png
 description: Software Enigneer
 role: programmer
 aliases:

@@ -1,6 +1,6 @@
 ---
 name: Jan Sollmann
-image: images/unknow.svg
+image: images/unknow.png
 description: master student
 role: master
 aliases:
