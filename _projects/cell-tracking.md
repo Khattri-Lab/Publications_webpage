@@ -22,10 +22,10 @@ To this end, I developed an new approach for cell tracking problems. First, I pr
 
 ## Related Publications:
 
-{% include citation.html lookup="doi:10.1128/JB.00184-19" style="rich" %}
+{% include citation.html id="doi:10.1128/JB.00184-19" style="rich" %}
 
-{% include citation.html lookup="doi:10.1007/978-3-319-10470-6_15" style="rich" %}
+{% include citation.html id="doi:10.1007/978-3-319-10470-6_15" style="rich" %}
 
-{% include citation.html lookup="doi:10.1007/978-3-319-24574-4_34" style="rich" %}
+{% include citation.html id="doi:10.1007/978-3-319-24574-4_34" style="rich" %}
 
 
