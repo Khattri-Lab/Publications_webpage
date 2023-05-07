@@ -1,7 +1,7 @@
 ---
-name: Lennart Kowitz
-image: images/unknow.png
-description: Software Enigneer
+name: Shloka Negi
+image: images/shloka.jpeg
+description: PhD
 role: programmer
 aliases:
   - L. Kowitz
