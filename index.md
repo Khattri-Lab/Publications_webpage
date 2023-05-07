@@ -2,9 +2,9 @@
 title: Home
 ---
 
-# synergize AI, machine vision and microscopy 
+# gene analysis 
 
-AI-based microscopy machine vision research is a highly interdisciplinary field requiring good knowledge of machine learning, computer vision, microscopy and the associated biomedical applications. We develop new deep learning and computer vision algorithms driven by real biomedical applications for R&D. We also generalize or productionize existing algorithms for high-dimenstional microscopy images, so that biomedical researchers are accesible to more the high-end AI algorithms. Currently, our focus is applications arose from whole-body or whole-organ imaging using lightsheet flurorescence microscopy (LSFM). But, the methods and tools are mostly generalizable for other modalities. In our group, we are building a diverse team with different expertises and embrace extensive internal and external collaborations.
+Integrated gene Analysis
 
 {:.center}
 
@@ -28,13 +28,13 @@ AI-based microscopy machine vision is a highly multi-disciplinary field. There a
   include feature.html
   image="images/research2.svg"
   link="research"
-  headline="Our Research"
+  headline="Publications"
   text=text
 %}
 
 {% capture text %}
 
-Our group is fully commited to open science, such as open source softwares/packages, public datasets, open access publications. We believe open science can lead to impactful big science.
+Our group is fully commited to open science.
 
 [Visit our open science portal &nbsp;→](OpenScience)
 {:.center}
