@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# gene analysis 
+# Khattri Lab @ IIT (BHU) Varanasi 
 
 Welcome to the KHATTRI LAB, a state-of-the-art research facility located at the Department of Pharmaceutical Engineering and Technology at the Indian Institute of Technology (BHU) Varanasi. Our lab is dedicated to advancing the field of gene expression analysis and bioinformatics through cutting-edge research and innovative techniques.
 
