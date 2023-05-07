@@ -2,7 +2,7 @@
 name: Sagorika Nag
 image: images/sagorika.jpg
 description: Bachelor's Student
-role: postdoc
+role: phd
 aliases:
   - 
 links:
