@@ -36,7 +36,9 @@
   - id: doi:10.1016/j.tranon.2022.101426
   title: 'Therapeutic approaches for the treatment of head and neck squamous cell carcinoma–An update on clinical trials'
   authors:
-  - Goel B, Tiwari AK, Pandey RK, Singh AP, Kumar S, Sinha A, Jain SK, Khattri A
+  - Goel B
+  - Tiwari AK, Pandey RK, Singh AP, Kumar S, Sinha A, Jain SK
+  - Khattri A
   publisher: Elsevier
   date: '2022-07-01'
   link: https://www.sciencedirect.com/science/article/pii/S1936523322000857
