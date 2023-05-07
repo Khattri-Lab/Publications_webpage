@@ -1,8 +1,8 @@
 ---
-name: Sweta Banerjee
-image: images/unknow.png
+name: Dr. Arun Khattri
+image: images/ARUN.jpeg
 description: Ph.D. Researcher
-role: phd
+role: lead
 aliases:
   - S. Banerjee
   - Sweta
