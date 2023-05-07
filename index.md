@@ -20,7 +20,7 @@ Integrated gene Analysis
 
 AI-based microscopy machine vision is a highly multi-disciplinary field. There are so many fanscinating problems to explore and study.
 
-[See our research landscape &nbsp;→](research)
+[See our publications &nbsp;→](research)
 {:.center}
 {% endcapture %}
 
@@ -29,22 +29,6 @@ AI-based microscopy machine vision is a highly multi-disciplinary field. There a
   image="images/research2.svg"
   link="research"
   headline="Publications"
-  text=text
-%}
-
-{% capture text %}
-
-Our group is fully commited to open science.
-
-[Visit our open science portal &nbsp;→](OpenScience)
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/open.svg"
-  link="OpenScience"
-  headline="Our Resources"
   text=text
 %}
 
