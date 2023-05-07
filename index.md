@@ -10,7 +10,7 @@ Integrated gene Analysis
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner_kh.jpeg" %}
+{% include banner.html image="images/banner_kh2.jpeg" %}
 
 {% include section.html %}
 
