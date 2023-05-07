@@ -23,7 +23,7 @@
   authors:
   - Jayesh Tiwari
   - Nancy Tripathi
-  - Srivastava RS, Kumar S, Singh S, Jain SK, 
+  - Srivastava RS, Kumar S, Singh S, Jain SK
   - Arun Khattri
   publisher: Science Direct
   date: '2022-08-01'
@@ -32,4 +32,27 @@
   tags:
   - SARS-CoV
   - Expression 
+  
+  - id: doi:10.1016/j.tranon.2022.101426
+  title: 'Therapeutic approaches for the treatment of head and neck squamous cell carcinoma–An update on clinical trials'
+  authors:
+  - Goel B, Tiwari AK, Pandey RK, Singh AP, Kumar S, Sinha A, Jain SK, Khattri A
+  publisher: Elsevier
+  date: '2022-07-01'
+  link: https://www.sciencedirect.com/science/article/pii/S1936523322000857
+  image: images/thera1.jpg
+  tags:
+  - Cancer
  
+ - id: doi:10.3389/fonc.2021.793881
+  title: 'Pan-Cancer Analysis Shows Enrichment of Macrophages, Overexpression of Checkpoint Molecules, Inhibitory Cytokines, and Immune Exhaustion Signatures in EMT-High Tumors'
+  authors:
+  - Tiwari J
+  - Negi S, Kashyap M, Nizamuddin S, Singh A
+  - Khattri A
+  publisher: Frontiers Media SA
+  date: '2022-01-12'
+  link: https://www.frontiersin.org/articles/10.3389/fonc.2021.793881/full
+  image: images/pan.jpg
+  tags:
+  - Cancer
