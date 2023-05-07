@@ -10,7 +10,7 @@ Integrated gene Analysis
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner_kh2.jpeg" %}
+{% include banner.html image="images/banner_kh2.jpg" %}
 
 {% include section.html %}
 
@@ -26,7 +26,7 @@ AI-based microscopy machine vision is a highly multi-disciplinary field. There a
 
 {%
   include feature.html
-  image="images/research2.svg"
+  image="images/banner_kh2.jpg"
   link="research"
   headline="Publications"
   text=text
