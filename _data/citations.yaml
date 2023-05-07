@@ -1,31 +1,34 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1016/j.cels.2021.05.001
+- id: doi:10.3390/diseases10040114
   title: 'Sialyltransferases and Neuraminidases: Potential Targets for Cancer Treatment'
   authors:
-  - Sagorika Nag
-  - Abhimanyu Mandal
-  - Aryaman Joshi
-  - Neeraj Jain
-  - Ravi Shanker Srivastava
-  - Sanjay Singh
-  - Arun Khattri
+  - S Nag
+  - A Mandal
+  - A Joshi
+  - N Jain
+  - RS Srivastava
+  - S Singh
+  - A Khattri
   publisher: MDPI
-  link: https://doi.org/gktgdk
-  image: images/pan.jpg
+  date: '2022-11-28'
+  link: https://www.mdpi.com/2079-9721/10/4/114
+  image: images/sialyl.png
   tags:
   - Cancer
   - Sialyltransferases
   
-- id: doi:10.1016/j.tranon.2022.101426
+- id: doi:10.1016/j.tranon.2022.101458
   title: 'Low Expression of TMPRSS2-a SARS-CoV-2 internalization protease-associates with basal subtype of HNSCC'
   authors:
   - Jayesh Tiwari
   - Nancy Tripathi
+  - Srivastava RS, Kumar S, Singh S, Jain SK, 
   - Arun Khattri
   publisher: Science Direct
-  link: https://doi.org/10.1016/j.tranon.2022.101426 
-  image: images/pic9.jpeg
+  date: '2022-08-01'
+  link: https://www.sciencedirect.com/science/article/pii/S1936523322001176
+  image: images/low.jpg
   tags:
   - SARS-CoV
   - Expression 
