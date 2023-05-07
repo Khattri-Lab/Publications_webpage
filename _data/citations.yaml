@@ -11,4 +11,16 @@
   image: https://www.allencell.org/uploads/8/1/9/9/81996008/cellsystems-cover-fish-aics-cos-2-final-thumb_2.png
   tags:
   - web yaar
+  
+- id: doi:10.1016/j.cels.2021.05.001
+  title: 'website test with me and mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm'
+  description: 'yes this is description'
+  authors:
+  - Devansh J
+  publisher: GitHub
+  date: 
+  link: https://doi.org/gktgdk
+  image: images/pic9.jpg
+  tags:
+  - web yaar
  
