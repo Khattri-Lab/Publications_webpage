@@ -7,8 +7,7 @@
   - A Mandal
   - A Joshi
   - N Jain
-  - RS Srivastava
-  - S Singh
+  - RS Srivastava, S Singh
   - A Khattri
   publisher: MDPI
   date: '2022-11-28'
@@ -32,16 +31,3 @@
   tags:
   - SARS-CoV
   - Expression 
- 
- - id: doi:10.3389/fonc.2021.793881
-  title: 'Pan-Cancer Analysis Shows Enrichment of Macrophages, Overexpression of Checkpoint Molecules, Inhibitory Cytokines, and Immune Exhaustion Signatures in EMT-High Tumors'
-  authors:
-  - Tiwari J
-  - Negi S, Kashyap M, Nizamuddin S, Singh A
-  - Khattri A
-  publisher: Frontiers Media SA
-  date: '2022-01-12'
-  link: https://www.frontiersin.org/articles/10.3389/fonc.2021.793881/full
-  image: images/pan.jpg
-  tags:
-  - Cancer
