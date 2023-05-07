@@ -14,21 +14,8 @@
   tags:
   - Cancer
   - Sialyltransferases
-  
-- id: doi:10.1016/j.tranon.2022.101426
-  title: 'Therapeutic approaches for the treatment of head and neck squamous cell carcinoma–An update on clinical trials'
-  authors:
-  - Goel B
-  - Tiwari AK, Pandey RK, Singh AP, Kumar S, Sinha A, Jain SK
-  - Khattri A
-  publisher: Elsevier
-  date: '2022-07-01'
-  link: https://www.sciencedirect.com/science/article/pii/S1936523322000857
-  image: images/thera1.jpg
-  tags:
-  - Cancer
-  
-- id: doi:10.1016/j.tranon.2022.101458
+
+  - id: doi:10.1016/j.tranon.2022.101458
   title: 'Low Expression of TMPRSS2-a SARS-CoV-2 internalization protease-associates with basal subtype of HNSCC'
   authors:
   - Jayesh Tiwari
@@ -43,6 +30,19 @@
   - SARS-CoV
   - Expression 
   
+- id: doi:10.1016/j.tranon.2022.101426
+  title: 'Therapeutic approaches for the treatment of head and neck squamous cell carcinoma–An update on clinical trials'
+  authors:
+  - Goel B
+  - Tiwari AK, Pandey RK, Singh AP, Kumar S, Sinha A, Jain SK
+  - Khattri A
+  publisher: Elsevier
+  date: '2022-07-01'
+  link: https://www.sciencedirect.com/science/article/pii/S1936523322000857
+  image: images/thera1.jpg
+  tags:
+  - Cancer
+
 id: doi:10.3389/fonc.2021.793881
   title: 'Pan-Cancer Analysis Shows Enrichment of Macrophages, Overexpression of Checkpoint Molecules, Inhibitory Cytokines, and Immune Exhaustion Signatures in EMT-High Tumors'
   authors:
