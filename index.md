@@ -48,7 +48,7 @@ Explore our team page to learn more about our dedicated researchers and students
 
 {%
   include feature.html
-  image="images/team.svg"
+  image="images/teamm.png"
   link="team"
   headline="Our Team"
   text=text
