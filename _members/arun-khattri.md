@@ -1,7 +1,7 @@
 ---
 name: Dr. Arun Khattri
 image: images/ARUN.jpeg
-description: Ph.D. Researcher
+description: Group Leader
 role: lead
 aliases:
   - S. Banerjee
