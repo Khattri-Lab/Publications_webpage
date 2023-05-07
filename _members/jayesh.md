@@ -1,6 +1,6 @@
 ---
 name: Jayesh Tiwari
-image: images/jayesh.jped
+image: images/jayesh.jpeg
 description: Masters student
 role: phd
 aliases:
