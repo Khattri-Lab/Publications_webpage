@@ -28,6 +28,19 @@
   tags:
   - Cancer
   
+ id: doi:10.3389/fonc.2021.793881
+  title: 'Pan-Cancer Analysis Shows Enrichment of Macrophages, Overexpression of Checkpoint Molecules, Inhibitory Cytokines, and Immune Exhaustion Signatures in EMT-High Tumors'
+  authors:
+  - Tiwari J
+  - Negi S, Kashyap M, Nizamuddin S, Singh A
+  - Khattri A
+  publisher: Frontiers Media SA
+  date: '2022-01-12'
+  link: https://www.frontiersin.org/articles/10.3389/fonc.2021.793881/full
+  image: images/pan.jpg
+  tags:
+  - Cancer
+  
 - id: doi:10.1016/j.tranon.2022.101458
   title: 'Low Expression of TMPRSS2-a SARS-CoV-2 internalization protease-associates with basal subtype of HNSCC'
   authors:
