@@ -2,10 +2,9 @@
 name: Shloka Negi
 image: images/shloka.jpeg
 description: PhD
-role: programmer
+role: postdoc
 aliases:
-  - L. Kowitz
-  - Lennart
+  - 
 links:
   google-scholar: TBA
   email: TBA
