@@ -10,12 +10,6 @@ nav:
 Gene Analysis and Bioinformatics research
 
 
-{% include section.html %}
-
-{% include list.html data="projects" component="card"%}
-
-{% include section.html %}
-
 ## All
 
 {% include search-box.html %}
