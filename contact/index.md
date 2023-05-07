@@ -42,10 +42,9 @@ Our lab is part of the [Department of Pharmaceutical Engineering and Technology]
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-Department of Pharmaceutical Engineering & Technology (भैषजीय अभियांत्रिकी एवं प्रौद्योगिकी विभाग)
-Indian Institute of Technology (BHU)भारतीय प्रौद्योगिकी संस्थान (काशी हिन्दू विश्वविध्यालय)
-Varanasi-221005 (U.P.) India
-वाराणसी-२२१००५ (उत्तर प्रदेश), भारत
+Department of Pharmaceutical Engineering & Technology (भैषजीय अभियांत्रिकी एवं प्रौद्योगिकी विभाग) <br/>
+Indian Institute of Technology (BHU) भारतीय प्रौद्योगिकी संस्थान (काशी हिन्दू विश्वविध्यालय) <br/>
+Varanasi-221005 (U.P.) India  वाराणसी-२२१००५ (उत्तर प्रदेश), भारत <br/>
 {:.center}
 
 {% capture col1 %}
