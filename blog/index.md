@@ -1,5 +1,5 @@
 ---
-title: News & Blog
+title: News
 nav:
   order: 4
   tooltip: recent updates, articles and posts
