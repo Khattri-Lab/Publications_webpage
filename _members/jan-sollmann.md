@@ -1,11 +1,10 @@
 ---
-name: Jan Sollmann
-image: images/unknow.png
-description: master student
+name: Abhimanyu Mandal
+image: images/abhimanyu.jpeg
+description: Bachelor's Student
 role: master
 aliases:
-  - J. Sollmann
-  - Jan
+  - 
 links:
   google-scholar: TBA
   email: TBA
