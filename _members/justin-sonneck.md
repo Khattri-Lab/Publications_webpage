@@ -1,13 +1,13 @@
 ---
-name: Dr. Arun Khattri
-image: images/ARUN.jpeg
-description: Ramalingam Fellow
-role: Lead
+name: Anoop Kumar Tiwari
+image: images/anoop.jpeg
+description: Research Scholar
+role: postdoc
 aliases:
   - 
 links:
-  google-scholar: FSVgYkQAAAAJ
-  email: akhattri.phe@itbhu.ac.in
+  google-scholar:
+  email: 
   twitter: TBA
 ---
 
