@@ -2,7 +2,7 @@
 name: Sagorika Nag
 image: images/sagorika.jpg
 description: Bachelor's Student
-role: programmer
+role: postdoc
 aliases:
   - 
 links:
