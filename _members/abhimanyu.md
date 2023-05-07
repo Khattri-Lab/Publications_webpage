@@ -2,7 +2,7 @@
 name: Abhimanyu Mandal
 image: images/abhimanyu.jpeg
 description: Bachelor's Student
-role: master
+role: programmer
 aliases:
   - 
 links:
