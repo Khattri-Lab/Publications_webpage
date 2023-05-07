@@ -1,11 +1,10 @@
 ---
-name: Peter Lampen
-image: images/unknow.png
-description: Software Enigneer
+name: Sagorika Nag
+image: images/sagorika.jpg
+description: Bachelor's Student
 role: programmer
 aliases:
-  - P. Lampen
-  - Peter
+  - 
 links:
   google-scholar: TBA
   email: TBA
