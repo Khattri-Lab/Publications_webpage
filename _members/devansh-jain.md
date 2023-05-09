@@ -6,7 +6,7 @@ role: programmer
 aliases:
   - 
 links:
-  google-scholar: TBA
+  linkedin: devanshjain9/
   email: devansh.jain.phe21@itbhu.ac.in
   twitter: https://twitter.com/devanshjain93
 ---
