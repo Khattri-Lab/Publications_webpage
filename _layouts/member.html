@@ -34,7 +34,7 @@ layout: default
   {%- for name in aliases -%}"{{ name }}" {%- endfor -%}
 {%- endcapture -%}
 
-{%- assign search = search | strip | prepend: "/research/?search=page.title" -%}
+{%- assign search = search | strip | prepend: "/research/?search=" -%}
 
 {%- capture text -%}
   {{ page.title }}'s papers
