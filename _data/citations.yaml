@@ -54,3 +54,106 @@
   image: images/pan.jpg
   tags:
   - Cancer
+  
+- id: doi:10.1158/1078-0432.CCR-14-2481
+  title: 'Integrative analysis of Head and Neck Cancer identifies two biologically distinct HPV-associated and three non-HPV subtypes'
+  authors: 
+  - Keck MK, Zuo Z
+  - Khattri A
+  - Stricker T, Brown C, Imanguli M, Rieke D, Endhardt K, Fang P, Brägelmann J, DeBoer R, El-Dinali M, Aktolga S, Lei Z, Tan P, Rozen SG, Salgia R, Weichselbaum R, Lingen MW, Story M, Ang KK, Cohen EE, White KP, Vokes EE, Seiwert TY 
+  publisher: American Association for Cancer Research
+  date: '2015-02-15'
+  link: https://aacrjournals.org/clincancerres/article/21/4/870/175804/Integrative-Analysis-of-Head-and-Neck-Cancer
+  image: images/integ.png
+  tags:
+  - HPV
+  - HNSCC
+
+- id: doi:10.1158/1078-0432.CCR-13-3310
+  title: 'Integrative and comparative genomic analysis of HPV(+) and HPV(-) head and neck squamous cell carcinomas'
+  authors: 
+  - Seiwert TY, Zuo Z, Keck MK 
+  - Khattri A 
+  - Stricker T, Brown C, Pedamallu CS, Pugh TJ, Stojanov P, Cho J, Lawrence MS, Getz G, Meyerson M, Braegelmann J, DeBoer R, Cohen EE, Weichselbaum R, Blair E, Stenson K, Lingen MW, Vokes EW, Hammerman PS, White KP 
+  publisher: American Association for Cancer Research
+  date: '2015-02-01'
+  link: https://aacrjournals.org/clincancerres/article/21/3/632/14052/Integrative-and-Comparative-Genomic-Analysis-of
+  image: images/integ2.png
+  tags:
+  - HPV
+  - HNSCC
+
+- id: doi:10.1016/j.oraloncology.2014.08.014
+  title: 'Rare occurrence of EGFRvIII deletion in head and neck squamous cell carcinoma'
+  authors:
+  - Khattri A 
+  - Zuo Z, Brägelmann J, Keck MK, El Dinali M, Brown CD, Stricker T, Munagala A, Cohen EE, Lingen MW, White KP, Vokes EW, Seiwert TY
+  publisher: Pergamon
+  date: '2015-01-01'
+  link: https://www.sciencedirect.com/science/article/abs/pii/S1368837514002486
+  image: images/rare.png
+  tags:
+  - HNSCC 
+
+- id: doi:10.1111/j.1365-2605.2012.01302.x
+  title: 'Novel mutations in calcium/calmodulin-dependent protein kinase IV (CAMK4) gene in infertile men'
+  authors:
+  - Khattri A 
+  - Reddy V, Pandey RK, Sudhakar DV, Gupta NJ, Chakravarty B, Deenadayal M, Singh L, Thangaraj K 
+  publisher: Blackwell Publishing Ltd
+  date: '2012-12-01'
+  link: https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2605.2012.01302.x
+  image: images/camk.png
+  tags:
+  - Male infertility   
+  
+- id: doi:10.1111/j.1365-2605.2010.01072.x
+  title: 'The TNP1 haplotype – GCG is associated with azoospermia'
+  authors:
+  - Khattri A 
+  - Bhushan SS, Sireesha V, Gupta NJ, Chakravarty B, Deenadayal M, Singh L, Thangaraj K
+  publisher: Blackwell Publishing Ltd
+  date: '2011-04-01'
+  link: https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2605.2010.01072.x
+  image: images/tnp.png
+  tags:
+  - TNP1 
+
+- id: doi:10.2164/jandrol.109.007898
+  title: 'APOB gene signal peptide deletion polymorphism is not associated with infertility in Indian men'
+  authors:
+  - Khattri A 
+  - Pandey RK, Gupta NJ, Chakravarty B, Deenadayal M, Singh L, Thangaraj K
+  publisher: Blackwell Publishing Ltd
+  date: '2009-11-12'
+  link: https://onlinelibrary.wiley.com/doi/full/10.2164/jandrol.109.007898
+  image: images/apob.png
+  tags:
+  - Male infertility
+  - Polymorphism
+  
+- id: doi:10.1093/molehr/gap044
+  title: 'Estrogen receptor β gene mutations in Indian infertile men'
+  authors:
+  - Khattri A 
+  - Pandey R, Gupta NJ, Chakravarty B, Deenadayal M, Singh L, Thangaraj K
+  publisher: Oxford University Press
+  date: '2009-08-01'
+  link: https://academic.oup.com/molehr/article/15/8/513/1253255
+  image: images/erbeta.png
+  tags:
+  - Male infertility
+  - ER beta gene
+  
+- id: doi:10.1111/j.1365-2605.2007.00821.x
+  title: 'CA repeat and RsaI polymorphisms in ER-beta gene are not associated with infertility in Indian men'
+  authors:
+  - Khattri A 
+  - Pandey RK, Gupta NJ, Chakravarty B, Deenadayal M, Singh L, Thangaraj K
+  publisher: Blackwell Publishing Ltd
+  date: '2009-02-01'
+  link: https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2605.2007.00821.x
+  image: images/carepeat.png
+  tags:
+  - Male infertility
+  - Polymorphism
