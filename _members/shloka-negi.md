@@ -1,7 +1,7 @@
 ---
 name: Shloka Negi
 image: images/shloka.jpeg
-description: Alumni
+description: PhD @ University of California
 role: alumni
 aliases:
   - 
