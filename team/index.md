@@ -6,8 +6,6 @@ nav:
 
 # <i class="fas fa-users"></i>People
 
-{% include section.html %}
-
 ## Current Members
 
 {%
