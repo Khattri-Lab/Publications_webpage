@@ -17,6 +17,7 @@ nav:
   component="portrait"
   filters="role: lead"
 %}
+{% include section.html %}
 {%
   include list.html
   data="members"
