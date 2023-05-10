@@ -7,8 +7,6 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-## All
-
 {% include search-box.html %}
 
 {% include search-info.html %}
