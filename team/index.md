@@ -1,15 +1,14 @@
 ---
-title: Team
+title: People
 nav:
-  order: 5
-  tooltip: About our team
+  order: 2
 ---
 
-# <i class="fas fa-We are building a team with diverse background and expertises, from software enigneering, machine learning, image analysis, data analysis to microscopy and computational biomedical modeling."></i>Team
-
-
+# <i class="fas fa-users"></i>People
 
 {% include section.html %}
+
+## Current Members
 
 {%
   include list.html
@@ -27,19 +26,17 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: programmer"
 %}
+
 {% include section.html %}
+
+## Alumni
+
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: master"
+  filters="role: phd"
 %}
 {:.center}
