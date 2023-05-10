@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 4
+  order: 5
   tooltip: About our team
 ---
 
@@ -17,7 +17,6 @@ nav:
   component="portrait"
   filters="role: lead"
 %}
-<br>
 {%
   include list.html
   data="members"
@@ -36,6 +35,7 @@ nav:
   component="portrait"
   filters="role: programmer"
 %}
+{% include section.html %}
 {%
   include list.html
   data="members"
