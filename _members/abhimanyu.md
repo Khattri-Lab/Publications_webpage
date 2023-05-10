@@ -1,8 +1,8 @@
 ---
 name: Abhimanyu Mandal
 image: images/abhimanyu.jpeg
-description: Bachelor's Student
-role: programmer
+description: Master's Student
+role: master
 aliases:
   - A Mandal
   - Abhimanyu Mandal
@@ -11,7 +11,7 @@ aliases:
 links:
   google-scholar: TBA
   email: TBA
-  twitter: TBA
+  linkedin: abhimanyu-mandal/
 ---
 
-under construction
+Abhimanyu Mandal
