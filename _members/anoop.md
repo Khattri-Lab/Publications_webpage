@@ -1,7 +1,7 @@
 ---
 name: Anoop Kumar Tiwari
 image: images/anoop.jpeg
-description: Research Scholar PhD
+description: Research Scholar
 role: phd
 aliases:
   - AK Tiwari
