@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 3
+  order: 4
   tooltip: About our team
 ---
 
@@ -17,7 +17,6 @@ nav:
   component="portrait"
   filters="role: lead"
 %}
-{% include section.html %}
 {%
   include list.html
   data="members"
@@ -30,9 +29,6 @@ nav:
   component="portrait"
   filters="role: phd"
 %}
-
-{% include section.html %}
-
 {%
   include list.html
   data="members"
