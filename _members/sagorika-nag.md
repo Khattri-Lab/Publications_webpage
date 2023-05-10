@@ -4,7 +4,9 @@ image: images/sagorika.jpg
 description: Master's Student
 role: master
 aliases:
-  - 
+  - S Nag
+  - Sagorika Nag
+  - Nag S
 links:
   google-scholar: TBA
   email: TBA
