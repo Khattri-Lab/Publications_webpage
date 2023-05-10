@@ -29,6 +29,9 @@ nav:
   component="portrait"
   filters="role: phd"
 %}
+
+{% include section.html %}
+
 {%
   include list.html
   data="members"
