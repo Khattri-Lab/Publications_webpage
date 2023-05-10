@@ -3,15 +3,15 @@ lead:
   text: Group Leader
 
 phd:
-  icon: fas fa-glasses
+  icon: fas fa-microscope
   text: PhD
   
 master:
-  icon: fas fa-brain
+  icon: fas fa-dna
   text: Master's student
 
 undergrad:
-  icon: fas fa-magic
+  icon: fas fa-seedling
   text: Undergraduate student
 
 alumni:
