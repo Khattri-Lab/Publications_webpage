@@ -1,16 +1,19 @@
 lead:
-  icon: fas fa-microscope
+  icon: fas fa-chalkboard-teacher
   text: Group Leader
 
-postdoc:
+phd:
   icon: fas fa-glasses
   text: PhD
-
-phd:
-  icon: fas fa-graduation-cap
+  
+master:
+  icon: fas fa-brain
   text: Master's student
 
-programmer:
-  icon: fas fa-code
-  text: Bachelor's student
+undergrad:
+  icon: fas fa-magic
+  text: Undergraduate student
 
+alumni:
+  icon: fas fa-graduation-cap
+  text: Alumni
