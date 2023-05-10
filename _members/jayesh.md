@@ -1,7 +1,7 @@
 ---
 name: Jayesh Tiwari
 image: images/jayesh.jpeg
-description: Alumni
+description: Software Engineer
 role: alumni
 aliases:
   - Tiwari J
