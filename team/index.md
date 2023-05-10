@@ -1,5 +1,5 @@
 ---
-title: People
+title: Team
 nav:
   order: 2
 ---
