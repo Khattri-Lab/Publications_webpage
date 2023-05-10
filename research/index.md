@@ -1,14 +1,11 @@
 ---
-title: Research
+title: Publications
 nav:
   order: 1
   tooltip: research landscape
 ---
 
 # <i class="fas fa-microscope"></i>Research
-
-Gene Analysis and Bioinformatics research
-
 
 ## All
 
