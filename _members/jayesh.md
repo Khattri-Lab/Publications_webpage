@@ -1,14 +1,16 @@
 ---
 name: Jayesh Tiwari
 image: images/jayesh.jpeg
-description: Master's Student
-role: phd
+description: Alumni
+role: alumni
 aliases:
-  - 
+  - Tiwari J
+  - Jayesh Tiwari
 links:
   google-scholar: TBA
   email: TBA
-  twitter: TBA
+  linkedin: jayeshkrt/
 ---
 
-under construction
+Jayesh Kumar Tiwari
+Software Engineer
