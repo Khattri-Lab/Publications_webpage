@@ -4,11 +4,7 @@ title: Home
 
 # Khattri Lab @ IIT (BHU) Varanasi 
 
-Welcome to the KHATTRI LAB, a state-of-the-art research facility located at the Department of Pharmaceutical Engineering and Technology at the Indian Institute of Technology (BHU) Varanasi.
-
-At the KHATTRI LAB, we are dedicated to advancing the field of gene expression analysis and bioinformatics through cutting-edge research and innovative techniques.
-
-Led by Dr. Arun Khattri, our team of dedicated researchers and students are passionate about advancing the field of bioinformatics, and are committed to making meaningful contributions to scientific knowledge.
+Cancer is a complex disease where multiple factors interplay in the progression of the cancer. My lab utilizes wet lab experiments and computational methods to understand the functional relevance of various genomic aberrations in cancer patients.  The long-term goal of my lab is to develop a better understanding of how genetic aberrations shape the tumor immune microenvironment (TIME) to eventually improve the prognosis of oral cancer patients.
 
 We invite you to explore our website to learn more about our research, publications, and team members.
 
