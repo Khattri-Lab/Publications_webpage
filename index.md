@@ -4,9 +4,8 @@ title: Home
 
 # Khattri Lab @ IIT (BHU) Varanasi 
 
-Cancer is a complex disease where multiple factors interplay in the progression of the cancer. My lab utilizes wet lab experiments and computational methods to understand the functional relevance of various genomic aberrations in cancer patients.  The long-term goal of my lab is to develop a better understanding of how genetic aberrations shape the tumor immune microenvironment (TIME) to eventually improve the prognosis of oral cancer patients.
+Cancer is a complex disease where multiple factors interplay in the progression of the cancer. The last decade has seen a rapid advancement in sequencing technologies and currently, several genomic datasets are publically available with the genomic data. We utilize these datasets along with the experimental approaches to decipher the role of various genomic aberrations in cancer patients with a major focus on cancers of the upper aerodigestive tract. The long-term goal of my lab is to develop a better understanding of how genetic aberrations shape the tumor immune microenvironment (TIME) to eventually improve the prognosis of oral cancer patients.
 
-We invite you to explore our website to learn more about our research, publications, and team members.
 
 {:.center}
 
