@@ -1,5 +1,5 @@
 ---
-title: News
+title: Activities
 nav:
   order: 4
   tooltip: recent updates, articles and posts
