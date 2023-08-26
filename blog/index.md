@@ -19,7 +19,7 @@ Abcdef
 
 {%
   include feature.html
-  image="images/teamcb.jpg"
+  image="images/teamcb.png"
   link="team"
   headline="Our Team"
   text=text
