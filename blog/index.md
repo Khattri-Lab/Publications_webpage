@@ -28,15 +28,15 @@ Abcdef
 {% capture col1 %}
 {%
   include figure.html
-  image="images/phe.png"
-  caption="Department of Pharmaceutical Engineering and Technology"
+  image="images/fidka.jpeg"
+  caption="Khattri Lab Group Dinner [01.05.24]"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/iitbhu.jpg"
-  caption="Indian Institute of Technology (BHU) Varanasi"
+  image="images/fidkas.jpeg"
+  caption="Khattri Lab Farewell [01.05.24]"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
