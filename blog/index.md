@@ -32,6 +32,7 @@ Abcdef
   caption="Khattri Lab Group Dinner [21.08.23]"
 %}
 {% endcapture %}
+{% include two-col.html col1=col1 col2=col2 %}
 
 {% capture col1 %}
 {%
