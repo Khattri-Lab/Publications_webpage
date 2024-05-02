@@ -28,6 +28,14 @@ Abcdef
 {% capture col1 %}
 {%
   include figure.html
+  image="images/teamcb.png"
+  caption="Khattri Lab Group Dinner [21.08.23]"
+%}
+{% endcapture %}
+
+{% capture col1 %}
+{%
+  include figure.html
   image="images/fidka.jpeg"
   caption="Khattri Lab Group Dinner [01.05.24]"
 %}
