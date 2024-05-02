@@ -9,22 +9,6 @@ nav:
 
 {% include section.html %}
 
-{% capture text %}
-
-Abcdef
-
-[Meet our team &nbsp;→](team)
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/teamcb.png"
-  link="team"
-  headline="Our Team"
-  text=text
-%}
-
 {% capture col1 %}
 {%
   include figure.html
@@ -33,6 +17,8 @@ Abcdef
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
+
+{% include section.html %}
 
 {% capture col1 %}
 {%
