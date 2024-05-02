@@ -16,6 +16,15 @@ nav:
   caption="Khattri Lab Group Dinner [21.08.23]"
 %}
 {% endcapture %}
+
+{% capture col2 %}
+{%
+  include figure.html
+  image="images/sagorika.jpeg"
+  caption="Khattri Lab '2024"
+%}
+{% endcapture %}
+
 {% include two-col.html col1=col1 col2=col2 %}
 
 {% include section.html %}
