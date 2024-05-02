@@ -20,7 +20,7 @@ nav:
 {% capture col2 %}
 {%
   include figure.html
-  image="images/sagorika.jpeg"
+  image="images/sagorika1.jpeg"
   caption="Khattri Lab '2024"
 %}
 {% endcapture %}
