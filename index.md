@@ -4,9 +4,9 @@ title: Home
 
 # Khattri Lab @ IIT (BHU) Varanasi 
 
-Cancer is a intricate disease characterized by the intricate interplay of multiple genetic and epigenetic factors throughout its progression. This complexity poses a significant challenge in pinpointing the pivotal factors driving its advancement. Over the past decade, there has been a remarkable leap in sequencing technologies, resulting in the availability of numerous public genomic datasets. In our research, we employ a combination of computational and experimental methodologies to unravel the genomic aberrations that underlie the progression of cancers in the upper aerodigestive tract, specifically focusing on Head and Neck cancers. The overarching objective of our laboratory is to gain a comprehensive understanding of how these genetic aberrations influence the tumor immune microenvironment (TIME), ultimately aiming to enhance the prognosis of patients with oral cancer.
+Cancer is a intricate disease characterized by the intricate interplay of multiple genetic and epigenetic factors throughout its progression. This complexity poses a significant challenge in pinpointing the pivotal factors driving its advancement. Over the past decade, there has been a remarkable leap in sequencing technologies, resulting in the availability of numerous public genomic datasets. In our research, we employ a combination of computational and experimental methodologies to unravel the genomic aberrations that underlie the progression of cancers in the upper aerodigestive tract, specifically focusing on Head and Neck cancers. The overarching objective of our laboratory is to gain a comprehensive understanding of how these genetic aberrations influence the tumor immune microenvironment (TIME), ultimately aiming to improve the prognosis of cancer patients.
 
-Additionally, our research endeavors extend to the identification and validation of suitable targets for personalized medicine tailored to individual cancer patients.
+Additionally, our research endeavors extend to the identification and validation of suitable targets for precision(personalized) medicine tailored to individual cancer patients.
 
 
 {:.center}
