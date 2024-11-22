@@ -1,15 +1,15 @@
 - id: doi:10.1038/s41417-024-00812-5
   title: 'Switching anti-EGFR antibody re-sensitizes head and neck cancer patient following acquired resistance to cetuximab'
   authors:
-  - S Nag- A Khattri
-- S Nizamuddin
-- N Agrawal
-- S Kaushik
-- S Kochanny
-- D Ginat
-- MW Lingen
-- E Blair
-- TY Seiwert
+- Khattri A
+- Nizamuddin S
+- Agrawal N
+- Kaushik S
+- Kochanny S
+- Ginat D
+- Lingen MW
+- Blair W
+- Seiwert TY
   publisher: Springer Nature
   date: '2024-07-31'
   link: https://www.nature.com/articles/s41417-024-00812-5
@@ -22,12 +22,13 @@
 - id: doi:10.3390/diseases10040114
   title: 'Sialyltransferases and Neuraminidases: Potential Targets for Cancer Treatment'
   authors:
-  - S Nag
-  - A Mandal
-  - A Joshi
-  - N Jain
-  - RS Srivastava, S Singh
-  - A Khattri
+  - Nag S 
+  - Mandal A
+  - Joshi A
+  - Jain N
+  - Srivastava RS 
+  - Singh S
+  - Khattri A
   publisher: MDPI
   date: '2022-11-28'
   link: https://www.mdpi.com/2079-9721/10/4/114
@@ -39,23 +40,31 @@
 - id: doi:10.1016/j.tranon.2022.101458
   title: 'Low Expression of TMPRSS2-a SARS-CoV-2 internalization protease-associates with basal subtype of HNSCC'
   authors:
-  - Jayesh Tiwari
-  - Nancy Tripathi
-  - Srivastava RS, Kumar S, Singh S, Jain SK
-  - Arun Khattri
-  publisher: Science Direct
+  - Tiwari J
+  - Tripathi N
+  - Srivastava RS, 
+  - Kumar S
+  - Singh S
+  - Jain SK
+  - Khattri A
+  publisher: Elsevier
   date: '2022-08-01'
   link: https://www.sciencedirect.com/science/article/pii/S1936523322001176
   image: images/low.jpg
   tags:
-  - SARS-CoV
+  - SARS-CoV2
   - Expression 
   
 - id: doi:10.1016/j.tranon.2022.101426
   title: 'Therapeutic approaches for the treatment of head and neck squamous cell carcinoma–An update on clinical trials'
   authors:
   - Goel B
-  - Tiwari AK, Pandey RK, Singh AP, Kumar S, Sinha A, Jain SK
+  - Tiwari AK
+  - Pandey RK
+  - Singh AP
+  - Kumar S
+  - Sinha A, 
+  - Jain SK
   - Khattri A
   publisher: Elsevier
   date: '2022-07-01'
@@ -67,7 +76,11 @@
 - id: doi:10.3389/fonc.2021.793881
   title: 'Pan-Cancer Analysis Shows Enrichment of Macrophages, Overexpression of Checkpoint Molecules, Inhibitory Cytokines, and Immune Exhaustion Signatures in EMT-High Tumors'
   authors:
-  - Tiwari J, Negi S, Kashyap M, Nizamuddin S, Singh A
+  - Tiwari J, 
+  - Negi S 
+  - Kashyap M
+  - Nizamuddin S
+  - Singh A
   - Khattri A
   publisher: Frontiers Media SA
   date: '2022-01-12'
