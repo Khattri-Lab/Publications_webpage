@@ -1,3 +1,24 @@
+- id: doi:10.1038/s41417-024-00812-5
+  title: 'Switching anti-EGFR antibody re-sensitizes head and neck cancer patient following acquired resistance to cetuximab'
+  authors:
+  - S Nag- A Khattri
+- S Nizamuddin
+- N Agrawal
+- S Kaushik
+- S Kochanny
+- D Ginat
+- MW Lingen
+- E Blair
+- TY Seiwert
+  publisher: Springer Nature
+  date: '2024-07-31'
+  link: https://www.nature.com/articles/s41417-024-00812-5
+  image: images/sialyl.png
+  tags:
+  - Cancer
+  - Cetuximab
+  - EGFR
+
 - id: doi:10.3390/diseases10040114
   title: 'Sialyltransferases and Neuraminidases: Potential Targets for Cancer Treatment'
   authors:
