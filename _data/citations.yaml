@@ -13,11 +13,11 @@
   publisher: Springer Nature
   date: '2024-07-31'
   link: https://www.nature.com/articles/s41417-024-00812-5
-  image: images/sialyl.png
+  image: images/Cetux-acquired-resistance.png
   tags:
-  - Cancer
   - Cetuximab
   - EGFR
+  - Acquired Resistance
 
 - id: doi:10.3390/diseases10040114
   title: 'Sialyltransferases and Neuraminidases: Potential Targets for Cancer Treatment'
