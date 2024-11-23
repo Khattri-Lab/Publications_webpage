@@ -6,7 +6,7 @@ role: undergrad
 aliases:
   - Devansh Jain
 links:
-  linkedin: devanshjain9/
+  linkedin: d9vansh/
   email: devansh.jain.phe21@itbhu.ac.in
   twitter: https://twitter.com/devanshjain93
 ---
