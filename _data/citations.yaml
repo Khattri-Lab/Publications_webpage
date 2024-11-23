@@ -1,16 +1,16 @@
 - id: doi:10.1038/s41417-024-00812-5
   title: 'Switching anti-EGFR antibody re-sensitizes head and neck cancer patient following acquired resistance to cetuximab'
   authors:
-- Khattri A
-- Nizamuddin S
-- Agrawal N
-- Kaushik S
-- Kochanny S
-- Ginat D
-- Lingen MW
-- Blair W
-- Seiwert TY
-  publisher: MDPI
+  - Khattri A
+  - Nizamuddin S
+  - Agrawal N
+  - Kaushik S
+  - Kochanny S
+  - Ginat D
+  - Lingen MW
+  - Blair W
+  - Seiwert TY
+  publisher: Springer Nature
   date: '2024-07-31'
   link: https://www.nature.com/articles/s41417-024-00812-5
   image: images/Cetux-acquired-resistance.png
