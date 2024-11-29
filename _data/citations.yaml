@@ -1,3 +1,21 @@
+- id: doi:10.1016/j.humgen.2024.201365
+  title: 'Solute carrier family 2 members (SLC2A) as potential targets for the treatment of head and neck squamous cell carcinoma patients'
+  authors:
+  - Jain D
+  - Tiwari AK
+  - Nizamuddin S
+  - Srivastava RS
+  - Shrivastava SK
+  - Khattri A
+  publisher: Human Gene
+  date: '2024-11-24'
+  link: https://www.sciencedirect.com/science/article/abs/pii/S2773044124001098
+  image: images/glut.png
+  tags:
+  - Glucose transporters
+  - SLC2A
+  - HNSCC
+
 - id: doi:10.1038/s41417-024-00812-5
   title: 'Switching anti-EGFR antibody re-sensitizes head and neck cancer patient following acquired resistance to cetuximab'
   authors:
