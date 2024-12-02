@@ -38,6 +38,22 @@
   - Acquired Resistance
   - HNSCC
 
+- id: doi:10.4274/tji.galenos.2023.29491
+  title: 'Advances in the Molecular Etiology of Severe Combined Immunodeficiency and Its Screening'
+  authors:
+  - Mahapatra A
+  - Verma HK
+  - Nag S
+  - Singh S
+  - Khattri A
+  - Bhaskar LVKS
+  publisher: Turkish Journal of Immunology
+  date: '2024-11-24'
+  link: https://jag.journalagent.com/tji/pdfs/TJI_11_1_1_16.pdf
+  image: images/glut.png
+  tags:
+  - SCID
+
 - id: doi:10.3390/diseases10040114
   title: 'Sialyltransferases and Neuraminidases: Potential Targets for Cancer Treatment'
   authors:
