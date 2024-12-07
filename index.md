@@ -6,10 +6,6 @@ title: Home
 
 {:.center}
 
-{% include section.html full=true %}
-
-{% include section.html %}
-
 # Highlights
 
 {% capture text %}
