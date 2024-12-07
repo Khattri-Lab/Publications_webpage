@@ -3,13 +3,10 @@ title: Home
 ---
 
 # Khattri Lab @ IIT (BHU) Varanasi 
-Lorem ipsum
 
 {:.center}
 
 {% include section.html full=true %}
-
-{% include banner.html image="images/banner_kh3.jpg" %}
 
 {% include section.html %}
 
@@ -47,12 +44,3 @@ Explore our team page to learn more about our dedicated researchers and students
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
-
-
-{%
-  include feature.html
-  image="images/teamm.png"
-  link="team"
-  headline="Our Team"
-  text=text
-%}
