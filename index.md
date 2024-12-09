@@ -3,7 +3,7 @@ title: Home
 ---
 
 # Publications
-# SFS, UPSIFS, Luckonw, India
+# SFS, UPSIFS, Lucknow, India
 
 
 
