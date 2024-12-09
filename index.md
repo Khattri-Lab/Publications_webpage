@@ -2,9 +2,8 @@
 title: Home
 ---
 
-# List of Publications
-# School of Forensic Science
-# UPSIFS, Luckonw 
+# Publications
+# SFS, UPSIFS, Luckonw, India
 
 
 
