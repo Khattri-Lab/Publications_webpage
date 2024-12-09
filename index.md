@@ -2,7 +2,9 @@
 title: Home
 ---
 
-# List of Publication from the School of Forensic Science, UPSIFS, Luckonw 
+# List of Publications
+# School of Forensic Science
+# UPSIFS, Luckonw 
 
 
 
